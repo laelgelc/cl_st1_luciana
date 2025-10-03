@@ -1,0 +1,352 @@
+---------------
+# 000001
+score = 6
+https://mobile.twitter.com/marlisantosmg
+
+u023590
+u:marlisantosmg
+
+católica apostólica romana, conservadora, pro arma, contra ideologia de gênero, contra o aborto Deus, pátria, família e liberdade 🇧🇷💚
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+apostólico
+católico
+gênero
+ideologia
+romano
+
+---------------
+# 000002
+score = 6
+https://mobile.twitter.com/carlabolsonaro
+
+u005750
+u:carlabolsonaro
+
+Sou de direita, Católica, a favor da família, da vida e justiça social.Contra o aborto, ideologia de gênero e corrupção.Compartilho do gabinete do ódio.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+católico
+gabinete
+gênero
+ideologia
+ódio
+
+---------------
+# 000003
+score = 5
+https://mobile.twitter.com/zilda022
+
+u036413
+u:zilda022
+
+Católica Apostólica Romana, Direita Conservadora, ANTI-PT, anti-comunista, anti-esquerda, contra o aborto, contra as drogas. Perfil de apoio a #Bolsonaro22🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+anti
+apostólico
+católico
+droga
+romano
+
+---------------
+# 000004
+score = 5
+https://mobile.twitter.com/marcelo88387147
+
+u022224
+u:marcelo88387147
+
+Deus. Católico. Direita. Conservador. Família. Armamentista. Contra o aborto. Contra Ideologia de gênero. Odeio PT, PSOL, Lula e quem os seguem. Bolsonaro 2026.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+católico
+gênero
+ideologia
+odiar
+
+---------------
+# 000005
+score = 5
+https://mobile.twitter.com/irinaldo74
+
+u015978
+u:irinaldo74
+
+Sou um hétero, Católico Apostólico Romano, contra o aborto, contra ideologia de gêneros, contra o comunismo e os seus movimentos.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+apostólico
+católico
+gênero
+ideologia
+
+---------------
+# 000006
+score = 5
+https://mobile.twitter.com/antonio81861582
+
+u003354
+u:antonio81861582
+
+gado, robô, extrema-direita, bolsominion, jacobino, vaporwave e MAVs conservador, gabinete do ódio. Se for me xingar coloque a lista completa!
+
+Lemmas in this profile that loaded on the factor:
+
+gabinete
+gado
+lista
+ódio
+robô
+
+---------------
+# 000007
+score = 4
+https://mobile.twitter.com/zeillerbonoro9
+
+u036373
+u:zeillerbonoro9
+
+☆Pátria Amada Brasil♡ Robô programado no gabinete do ódio, Anti comunismo, contra aborto, armamentista! Conta Reserva: @ZeillerBrasil #ExércitoBrasileiro
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+gabinete
+ódio
+robô
+
+---------------
+# 000008
+score = 4
+https://mobile.twitter.com/souolecram
+
+u032770
+u:souolecram
+
+DEUS, Família, Brasil, Liberdade, Sou Conservador, Sou de Direita, Sou Cristão, Contra o aborto, Contra ideologia de gênero, anti-feminista. 🇧🇷🇧🇷🇮🇱🇮🇱
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+anti
+feminista
+gênero
+ideologia
+
+---------------
+# 000009
+score = 4
+https://mobile.twitter.com/renatopagano7
+
+u029429
+u:renatopagano7
+
+Cristão, Conservador,PT-Fóbico,contra aborto, contra drogas, contra ideologia de gênero, contra o sistema!
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+
+---------------
+# 000010
+score = 4
+https://mobile.twitter.com/oliveiraviana4
+
+u026524
+u:oliveiraviana4
+
+SÓ JESUS É O SENHOR! Advogado, cristão, pai, avô, patriota🇧🇷. Robô c/CPF 💯% Bolsonaro, Liberdade. Contra aborto, ideologia de gênero, Anti-comunista.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+cpf
+gênero
+ideologia
+robô
+
+---------------
+# 000011
+score = 4
+https://mobile.twitter.com/lucilabuzo1
+
+u021034
+u:lucilabuzo1
+
+Anti esquerda. Gabinete do Ódio- divisão gaúcha-centro do RS- Patriota. Tia do zap, do Face, do Insta, do Twitter e youtube.
+
+Lemmas in this profile that loaded on the factor:
+
+gabinete
+ódio
+tio
+zap
+
+---------------
+# 000012
+score = 4
+https://mobile.twitter.com/leonardobarbo2
+
+u019951
+u:leonardobarbo2
+
+Deus🙏, família👨‍👩‍👧‍👦 e pátria🇧🇷!! Conservador⚔️, católico📿, de direita➡️, armamentista👉, patriota🙅🏻‍♂️, contra o aborto😡 robô do Bolsonaro 🤖
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+católico
+robô
+robot_e
+
+---------------
+# 000013
+score = 4
+https://mobile.twitter.com/leo_kell
+
+u019851
+u:leo_kell
+
+❤️❤️Deus, Família, Pátria ❤️❤️ 🚫 contra marxismo cultural, ideologia de gênero, aborto, liberação de drogas🚫
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+
+---------------
+# 000014
+score = 4
+https://mobile.twitter.com/josecss49541
+
+u017815
+u:josecss49541
+
+Pátria, Família e Liberdade. Direita Liberal. Paraquedista. Fora ideologia de gêneros, aborto e liberação das drogas. A recíproca é verdadeira 👉🇧🇷🇧🇷🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+
+---------------
+# 000015
+score = 4
+https://mobile.twitter.com/ivanscutari
+
+u016218
+u:ivanscutari
+
+Sou Católico Apostólico Romano Mariano Carismático! Gado, robô, bolso Minions agora ET. #BolsonaristadeCoração
+
+Lemmas in this profile that loaded on the factor:
+
+apostólico
+católico
+gado
+robô
+
+---------------
+# 000016
+score = 4
+https://mobile.twitter.com/grafenosfera
+
+u014699
+u:grafenosfera
+
+Gabinete dos LEÕES, ROBÔS, TIAS do ZAP, BOLSOMINIONS e dos demais PATRIOTAS que defendem a LIBERDADE e AMAM o BRASIL! 🦁🤖🚔🛡️🇧🇷❤️😎👊🏽
+
+Lemmas in this profile that loaded on the factor:
+
+gabinete
+robô
+robot_e
+tio
+
+---------------
+# 000017
+score = 4
+https://mobile.twitter.com/gracabinas
+
+u014683
+u:gracabinas
+
+Cristã , conservadora por convicção . Sou contra : o aborto , ideologia de gênero ,drogas ... Defendo : a família ,os valores judaicos /cristãos .
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+
+---------------
+# 000018
+score = 4
+https://mobile.twitter.com/evaldogomcar
+
+u011754
+u:evaldogomcar
+
+D-us, Pátria, Família e Liberdade Contra: Aborto, Ideologia de gênero e Liberação das drogas 2ª Conta: @E_Gomes3370 Parler: @Evaldogomcar GETTR:@E_Gomes DM 🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+
+---------------
+# 000019
+score = 4
+https://mobile.twitter.com/erikacysne
+
+u011488
+u:erikacysne
+
+P/ os bons: Patriota, conservadora e cristã.🇧🇷🇧🇷 P/ os maus: Gado, Robô do G.D.O, tia do Zap e soldado do exército de tuiteiros.🐄🤖📱👩🏽‍✈️
+
+Lemmas in this profile that loaded on the factor:
+
+gado
+robô
+robot_e
+tio
+
+---------------
+# 000020
+score = 4
+https://mobile.twitter.com/elianenormant
+
+u010822
+u:elianenormant
+
+Nordestina, Conservadora Roxa! Contra liberação de drogas, aborto, ideologia de gênero, a favor da família e dos princípios cristãos...
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+droga
+gênero
+ideologia
+nordestino
+

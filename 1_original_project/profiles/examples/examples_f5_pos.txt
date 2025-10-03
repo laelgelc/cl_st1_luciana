@@ -1,0 +1,349 @@
+---------------
+# 000001
+score = 6
+https://mobile.twitter.com/alexandresalema
+
+u001697
+u:alexandresalema
+
+Executivo e empresário com foco em novos negócios e inovação. Sou a favor de um estado mínimo com foco principal em saúde, segurança e educação. Livre mercado!
+
+Lemmas in this profile that loaded on the factor:
+
+educação
+estado
+foco
+livre
+mercado
+negócio
+pequeno
+
+---------------
+# 000002
+score = 5
+https://mobile.twitter.com/whellington
+
+u035882
+u:whellington
+
+Administrador de sistemas e empreendedor, conservador nos costumes, liberal na economia, defensor do estado mínimo, armamentista e contra o aborto.
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+estado
+liberal
+pequeno
+sistema
+
+---------------
+# 000003
+score = 5
+https://mobile.twitter.com/costa_10_73
+
+u007535
+u:costa_10_73
+
+Imbroxavel, Conservador/Libertário. Pró: Liberdade de expressão, Armas, propriedade privada, livre mercado. Anti: Feminismo, Esquerdo-progressismo-Woke!
+
+Lemmas in this profile that loaded on the factor:
+
+expressão
+libertário
+livre
+mercado
+privado
+propriedade
+
+---------------
+# 000004
+score = 4
+https://mobile.twitter.com/xandaosouzza
+
+u036143
+u:xandaosouzza
+
+Formado em Gestão pública e, pós Graduado em ciências políticas. Gerente de emprego e renda no SINE, e suplente de vereador na cidade de São José SC.
+
+Lemmas in this profile that loaded on the factor:
+
+ciência
+formar
+político
+público
+
+---------------
+# 000005
+score = 4
+https://mobile.twitter.com/tinocofra
+
+u034011
+u:tinocofra
+
+Natural do Rio, cientista político. Liberal na economia e no social. Fraternidade como certeza, liberdade como ideal e igualdade como evolução.
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+liberal
+político
+social
+
+---------------
+# 000006
+score = 4
+https://mobile.twitter.com/prgeorgesifv
+
+u028221
+u:prgeorgesifv
+
+Sou abençoado !! !avaliador automotivo! casado a 24 anos pai de 3 filhos, liberal contemporâneo, formado em economia, bacharel em relações públicas.
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+formar
+liberal
+público
+
+---------------
+# 000007
+score = 4
+https://mobile.twitter.com/lobaorj
+
+u020512
+u:lobaorj
+
+Formado em segurança pública e privada. Graduação em Ciências criminais. Bolsonarista,armamentista. CAC. Deus pátria e família. 🇧🇷🇺🇸🇮🇱
+
+Lemmas in this profile that loaded on the factor:
+
+ciência
+formar
+privado
+público
+
+---------------
+# 000008
+score = 4
+https://mobile.twitter.com/jordangaell
+
+u017659
+u:jordangaell
+
+Eu sou o Conservadorismo Pulsante, conservador nos costumes e liberal na economia, defendo os direitos à liberdade e à propriedade privada. #BolsonaroAte2026
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+liberal
+privado
+propriedade
+
+---------------
+# 000009
+score = 4
+https://mobile.twitter.com/henriquehenbal
+
+u015366
+u:henriquehenbal
+
+Engenheiro, trabalhei 36 anos na indústria privada. Sou conservador e de direita, acredito na LIBERDADE de todos, num Estado mínimo e numa economia de mercado.
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+estado
+mercado
+pequeno
+privado
+trabalhar
+
+---------------
+# 000010
+score = 4
+https://mobile.twitter.com/hansen_vitor
+
+u015110
+u:hansen_vitor
+
+Formado em educação física e economia. Conservador, armamentista e a favor do voto impresso.
+
+Lemmas in this profile that loaded on the factor:
+
+economia
+educação
+físico
+formar
+voto
+
+---------------
+# 000011
+score = 4
+https://mobile.twitter.com/ferreiranews2
+
+u012867
+u:ferreiranews2
+
+Notícia livre de apego político! Educação em Foco!
+
+Lemmas in this profile that loaded on the factor:
+
+educação
+foco
+livre
+político
+
+---------------
+# 000012
+score = 4
+https://mobile.twitter.com/evandro_bv
+
+u011766
+u:evandro_bv
+
+\"A vida é ETERNA pra quem tem FÉ\"... Liberdade religiosa e de expressão, legitima defesa, direito a propriedade privada, não ao aborto, liberdade econômica...
+
+Lemmas in this profile that loaded on the factor:
+
+defesa
+expressão
+privado
+propriedade
+
+---------------
+# 000013
+score = 4
+https://mobile.twitter.com/dudaduduedu
+
+u009922
+u:dudaduduedu
+
+A favor do direito à livre defesa da vida, da liberdade de expressão e da propriedade. Contra o Aborto.
+
+Lemmas in this profile that loaded on the factor:
+
+defesa
+expressão
+livre
+propriedade
+
+---------------
+# 000014
+score = 4
+https://mobile.twitter.com/aragao130181
+
+u003526
+u:aragao130181
+
+Gastrólogo, formado em Educação Física, pai de Lelê, casado. Lugar de político ladrão e bandido é na prisão.BOLSONARO até 2026. 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+educação
+formar
+político
+prisão
+
+---------------
+# 000015
+score = 4
+https://mobile.twitter.com/albertosilvabr
+
+u001328
+u:albertosilvabr
+
+Mestre em Semiótica, Comunicador, professor e coordenador educacional. Especialista em comunicação, educação a distância, ciências sociais e história da arte.
+
+Lemmas in this profile that loaded on the factor:
+
+ciência
+educação
+especialista
+social
+
+---------------
+# 000016
+score = 3
+https://mobile.twitter.com/willianhanders1
+
+u035976
+u:willianhanders1
+
+Sou cristão, conservador nos costumes e liberal na economia. Administrador público, Analista Comportamental e Produtor Eventos . Eleitor de Bolsonaro!
+
+Lemmas in this profile that loaded on the factor:
+
+analista
+economia
+liberal
+público
+
+---------------
+# 000017
+score = 3
+https://mobile.twitter.com/tunofernando
+
+u034293
+u:tunofernando
+
+Marketing Digital, design, música, cinema, literatura, motociclismo! A favor de um Estado menor, Liberalismo Econômico e uma Educação sem ideologia! 😎👉
+
+Lemmas in this profile that loaded on the factor:
+
+estado
+ideologia
+marketing
+pequeno
+
+---------------
+# 000018
+score = 3
+https://mobile.twitter.com/trovoescabral
+
+u034238
+u:trovoescabral
+
+Analista de sistemas e advogada. Deus, Família, Pátria, Liberdade e Trabalho! Conservadora nos costumes e liberal na economia. Bolsonaro de cabeça e coração.
+
+Lemmas in this profile that loaded on the factor:
+
+advogado
+analista
+economia
+liberal
+sistema
+
+---------------
+# 000019
+score = 3
+https://mobile.twitter.com/thalesam1
+
+u033589
+u:thalesam1
+
+Brasileiro, cristão, conservador, apoia o livre mercado e estado mínimo.
+
+Lemmas in this profile that loaded on the factor:
+
+estado
+livre
+mercado
+pequeno
+
+---------------
+# 000020
+score = 3
+https://mobile.twitter.com/souza_wesley62
+
+u032791
+u:souza_wesley62
+
+Ex-líder estudantil 2015/2019, comentarista social e aspirante a político; 22 anos, técnico em administração, logística e marketing pessoal.
+
+Lemmas in this profile that loaded on the factor:
+
+marketing
+político
+social
+

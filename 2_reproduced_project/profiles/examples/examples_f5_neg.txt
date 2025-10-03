@@ -1,0 +1,332 @@
+---------------
+# 000001
+score = -3
+https://mobile.twitter.com/beeapgarcia
+
+u004234
+u:beeapgarcia
+
+Brasileira 🇧🇷💚💛 Nail Designer e Manicure 💅 Casada , mãe de 3 💙💙💙 Cristã, sirvo a um Deus vivo, que nada fica em oculto aos olhos dele 🙏🏼🕊️
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+olho
+yellow_heart_e
+
+---------------
+# 000002
+score = -3
+https://mobile.twitter.com/caldascohen
+
+u005491
+u:caldascohen
+
+ESTOU NA CONTA SUBSTITUTA ATE O PÁSSARO AZUL DEVOLVER A MINHA VELHA CONTA. TEMPOS DIFÍCEIS TUDO QUE SE FALA É MOTIVO DE BLOCK. BLOCK POR UMA SEMANA EU ACHO.
+
+Lemmas in this profile that loaded on the factor:
+
+achar
+azul
+tempo
+
+---------------
+# 000003
+score = -3
+https://mobile.twitter.com/deborahlay_
+
+u008635
+u:deborahlay_
+
+Dona de casa , esposa de escritor, católica, cavando onde estou.Professora,atriz,ceramista e neófita de filosofia.Quero o melhor para meu lindo país.🇧🇷💚💛💙
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+casa
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000004
+score = -3
+https://mobile.twitter.com/khamo1025
+
+u019041
+u:khamo1025
+
+Cristã e patriota 👉🇧🇷💚💛 Não perco meu tempo com esquerdista, block. Ñ uso máscara, ñ fico em casa, ñ vou tomar vacina e novo normal é o c...
+
+Lemmas in this profile that loaded on the factor:
+
+backhand_index_pointing_right_e
+casa
+green_heart_e
+tempo
+yellow_heart_e
+
+---------------
+# 000005
+score = -3
+https://mobile.twitter.com/liviableon
+
+u020441
+u:liviableon
+
+BOLSONARO ATÉ 2026! 🇺🇸🇧🇷 💙❤️💚💛👊🏻Amor e Generosidade. Plantando um futuro lindo para o Brasil! #DireitaSegueDireita 👠💄😍🥰😊
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+direitaseguedireita_h
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000006
+score = -3
+https://mobile.twitter.com/lizasil12000715
+
+u020461
+u:lizasil12000715
+
+Conservadora de direita🇧🇷💙💚💛Deus 🙏 Família meu tudo 🙌
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+folded_hands_e
+green_heart_e
+raising_hands_e
+yellow_heart_e
+
+---------------
+# 000007
+score = -3
+https://mobile.twitter.com/lucianafortte
+
+u020905
+u:lucianafortte
+
+#BrasilWasStolen Presente em apoio ao Presidente Bolsonaro. Brasil acima de tudo e Deus acima de todos! 🇧🇷💚💙💛🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+presente
+yellow_heart_e
+
+---------------
+# 000008
+score = -3
+https://mobile.twitter.com/maicontemtem
+
+u021857
+u:maicontemtem
+
+#direitaseguedireita/Bolsonaro reeleito, e Brasil o país do presente e não mais o país de um futuro que nunca chega!!! Deus-Pátria-Familia !!!
+
+Lemmas in this profile that loaded on the factor:
+
+chegar
+direitaseguedireita_h
+presente
+
+---------------
+# 000009
+score = -3
+https://mobile.twitter.com/maraju49138032
+
+u022069
+u:maraju49138032
+
+🇧🇷💯%Bolsonaro Conservadora de Direita , Patriota, Cristã , Psicopedagoga Super Anticomunista #DireitaSegueDireita #DireitaUnida💚💛💚💛💚💛💚
+
+Lemmas in this profile that loaded on the factor:
+
+direitaseguedireita_h
+direitaunida_h
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000010
+score = -3
+https://mobile.twitter.com/rcoloradaco
+
+u029014
+u:rcoloradaco
+
+#DireitaSEGUEDireita / Sou e SEMPRE serei @jairbolsonaro até o FIM!. 🇧🇷🇧🇷🔰💚💛💙 RIO GRANDE DO SUL 💚♥️💛 @SCInternacional ❤️🤍
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+direitaseguedireita_h
+green_heart_e
+white_heart_e
+yellow_heart_e
+
+---------------
+# 000011
+score = -3
+https://mobile.twitter.com/tania_andreucci
+
+u033253
+u:tania_andreucci
+
+Ou viver à Pátria Livre ou Morrer pelo Brasil 💚💛💙🇧🇷🇧🇷😎🙌🙏
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+folded_hands_e
+green_heart_e
+raising_hands_e
+yellow_heart_e
+
+---------------
+# 000012
+score = -2
+https://mobile.twitter.com/_ad0nai_
+
+u000246
+u:_ad0nai_
+
+⚔️ NÃO RESPONDO DM ⚔️ 🇧🇷 - Radialista - Jornalista 🇧🇷 - Patriota 🇧🇷 💚💛💙
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/_annastein
+
+u000263
+u:_annastein
+
+#Patriota Conservadora, Bolsonarista, Católica...✝️🇧🇷 🇮🇱 🇺🇸#DireitaUnida \"E conhecereis a verdade, e a verdade vos libertará\" João 8:32 Gettr: _AnnaStein
+
+Lemmas in this profile that loaded on the factor:
+
+conhecer
+direitaunida_h
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/acaciaguerra_
+
+u000599
+u:acaciaguerra_
+
+Estudante téc.contabilidade 18 anos amo gatinhos 🐈 e a minha pátria!💚💛💙
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/adrianamnavas
+
+u000893
+u:adrianamnavas
+
+🇧🇷 Brasil acima de tudo. Deus acima de todos !!! 🇧🇷😎👉👉🇧🇷 SDV garantido✌️ #DireitaUnida #DireitaSegueDireita #BolsonaroNossoPresidente
+
+Lemmas in this profile that loaded on the factor:
+
+backhand_index_pointing_right_e
+direitaseguedireita_h
+direitaunida_h
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/adrikademanaus
+
+u001011
+u:adrikademanaus
+
+Idealista, luto pelo resgate de um Brasil justo e íntegro para as gerações a partir de mim💚💛💙
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/alciarodrigue18
+
+u001359
+u:alciarodrigue18
+
+Casada 💍 Mãe 💙💙💙💙 Conservadora 💪🏻 Destra 💚💛
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000018
+score = -2
+https://mobile.twitter.com/alcionedrgr
+
+u001369
+u:alcionedrgr
+
+💙💚💛Política / Direita Sempre 🇧🇷🇧🇷🇧🇷🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+yellow_heart_e
+
+---------------
+# 000019
+score = -2
+https://mobile.twitter.com/alinetn75
+
+u001923
+u:alinetn75
+
+Anticomunista, antisocialista e antiglobalista!🇧🇷🇵🇹😎💚💛💙🤍💚❤️
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+green_heart_e
+white_heart_e
+yellow_heart_e
+
+---------------
+# 000020
+score = -2
+https://mobile.twitter.com/alvriotw
+
+u002144
+u:alvriotw
+
+Sendo BEM claro.APARTIDÁRIO!Mas com inteligência,pensamento crítico,olhos de ver,ouvidos de ouvir! #TODOSosCORRUPTOSPresos.
+
+Lemmas in this profile that loaded on the factor:
+
+olho
+ouvir
+

@@ -1,0 +1,370 @@
+---------------
+# 000001
+score = 7
+https://mobile.twitter.com/suramadonadia
+
+u033091
+u:suramadonadia
+
+Sou uma pessoa feliz, Amo muito a vida, e dela sou aprendiz; Pelo menos busco, A cada dia, Tornar-me alguém melhor.
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+buscar
+dia
+feliz
+pessoa
+tornar
+vida
+
+---------------
+# 000002
+score = 6
+https://mobile.twitter.com/damamis
+
+u008057
+u:damamis
+
+Sou fascinada pela vida e amo viajar. Sou cristã, creio no amor e acho que a verdade sempre vence. Não há ser humano melhor que outro, somos iguais. 🦋🌻🇧🇷💖
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+bom
+humano
+sunflower_e
+vencer
+verdade
+vida
+
+---------------
+# 000003
+score = 6
+https://mobile.twitter.com/bdgigibdgigigi
+
+u004200
+u:bdgigibdgigigi
+
+Todos dias tento agir com princípios e respeito ao próximo. Espero, confio que conseguiremos um país melhor e livre de corrupção.Fé #política
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+dia
+esperar
+fé
+próximo
+tentar
+
+---------------
+# 000004
+score = 5
+https://mobile.twitter.com/wendenys
+
+u035810
+u:wendenys
+
+Palavras são lançadas Em algum lugar repousarão Levam em si a vida Ou vida em morte tornarão...🎶🎶
+
+Lemmas in this profile that loaded on the factor:
+
+lugar
+morte
+palavra
+tornar
+vida
+
+---------------
+# 000005
+score = 5
+https://mobile.twitter.com/wellimar
+
+u035754
+u:wellimar
+
+Brasileiro, cristão ✝️, temente à Deus.! Sentido da vida: Amar e viver a Sua Palavra e ser conformado à imagem do SEU FILHO a cada dia.! Me. Administrador
+
+Lemmas in this profile that loaded on the factor:
+
+deus
+dia
+palavra
+vida
+viver
+
+---------------
+# 000006
+score = 5
+https://mobile.twitter.com/vtrparaibana
+
+u035454
+u:vtrparaibana
+
+Nem complicado e nem tão simples assim; Vivo meus pesadelos e meus sonhos transformo sempre em coisas boas, assim busco minha felicidade sem depender de ninguém
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+buscar
+coisa
+simples
+sonho
+
+---------------
+# 000007
+score = 5
+https://mobile.twitter.com/vkelly64692998
+
+u035370
+u:vkelly64692998
+
+Democracia ☘️ Liberdade ☘️ Acreditar que um dia o ser humano será compatível ao amor ao próximo como Deus nos ensinou. Apaixonada por meu 🇧🇷.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+deus
+dia
+ensinar
+humano
+próximo
+
+---------------
+# 000008
+score = 5
+https://mobile.twitter.com/silvio_heleno
+
+u032298
+u:silvio_heleno
+
+tranquilo coisas certas nada de errado sem MENTIRA acima de tudo...... TENENTE A DEUS SOBRE TODO AS SA COISAS VIVA UM DIA APÓS O OUTRO 👏🏿👍🏿🤜🏿🤛🏿💪🏿🤗😍
+
+Lemmas in this profile that loaded on the factor:
+
+certo
+coisa
+deus
+dia
+errar
+viver
+
+---------------
+# 000009
+score = 5
+https://mobile.twitter.com/roth380
+
+u030976
+u:roth380
+
+Nada de politicamente correto,a verdade nua e crua é o que penso ser o certo,pena de morte em casos extremos,bom senso e contra as políticas racistas!
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+certo
+morte
+pena
+pensar
+verdade
+
+---------------
+# 000010
+score = 5
+https://mobile.twitter.com/ronaldo91865230
+
+u030593
+u:ronaldo91865230
+
+Me tornar a cada dia uma pessoa melhor E querer deixar um país melhor aonde o meu filho possa viver tranquilamente e continuar acreditando naquilo que acredito
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+dia
+filho
+pessoa
+tornar
+viver
+
+---------------
+# 000011
+score = 5
+https://mobile.twitter.com/r666778
+
+u028536
+u:r666778
+
+Hell-o!🔥Welcome to Hell🔥CRIADO COM O DIVINO PODER, O SABER SUPREMO E O PRIMEIRO AMOR. ANTES DE MIM NADA EXISTIU.APENAS O QUE É ETERNO. E ETERNO EU SOU.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+criar
+eterno
+existir
+poder
+saber
+
+---------------
+# 000012
+score = 5
+https://mobile.twitter.com/nayara_priscila
+
+u025666
+u:nayara_priscila
+
+22 anos, Escorpiana; Futura Fisioterapeuta; Aquela que acredita no poder que as palavras possuem e que ama as coisas mais simples da vida!
+
+Lemmas in this profile that loaded on the factor:
+
+coisa
+palavra
+poder
+simples
+vida
+
+---------------
+# 000013
+score = 5
+https://mobile.twitter.com/loouisemendes_
+
+u020564
+u:loouisemendes_
+
+Nasci e desde então muitos desastres ocorrem a minha volta. Tentando trabalhar o bom humor quando acordo todos os dias, sem sucesso (ainda).
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+dia
+nascer
+tentar
+trabalhar
+
+---------------
+# 000014
+score = 5
+https://mobile.twitter.com/karinamanzela
+
+u018814
+u:karinamanzela
+
+Tento ser um ser melhor a cada dia.. aprendendo a deixar Deus me guiar pelo caminho Dele. Não sei de nada, não sei do meu futuro, eu sei que a Ele pertence....
+
+Lemmas in this profile that loaded on the factor:
+
+aprender
+bom
+dia
+saber
+tentar
+
+---------------
+# 000015
+score = 5
+https://mobile.twitter.com/kaio19781952
+
+u018729
+u:kaio19781952
+
+viver e ser livre saber dar valor paras coisas mais simples só o amor constrói pontes indestrutíveis.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+coisa
+saber
+simples
+viver
+
+---------------
+# 000016
+score = 5
+https://mobile.twitter.com/jadirloppes
+
+u016413
+u:jadirloppes
+
+faça a coisa certa. Sempre!!! https://t.co/tTmMeIFhVt Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida. Ninguém vai ao pai se não por mim. Namastê
+
+Lemmas in this profile that loaded on the factor:
+
+certo
+coisa
+dizer
+verdade
+vida
+
+---------------
+# 000017
+score = 5
+https://mobile.twitter.com/izaceliacosta
+
+u016292
+u:izaceliacosta
+
+Pastora, Bolsonaro 🇧🇷 Como é sublime saber amar, com a alma adorar a terra onde se nasce, amor febril pelo Brasil, no coração nosso que passe. Izaceliacrochê
+
+Lemmas in this profile that loaded on the factor:
+
+alma
+amor
+nascer
+saber
+terra
+
+---------------
+# 000018
+score = 5
+https://mobile.twitter.com/israelguedesban
+
+u016115
+u:israelguedesban
+
+Soy una persona que le gusta aprender cada dia mas de la vida. #Diosesbueno Sou uma pessoa que ama aprender dia a dia. Deus é bom #musico Profesor #Cristiano
+
+Lemmas in this profile that loaded on the factor:
+
+aprender
+bom
+dia
+pessoa
+vida
+
+---------------
+# 000019
+score = 5
+https://mobile.twitter.com/helio_cortez
+
+u015251
+u:helio_cortez
+
+Um cara que levanta cedo para trabalhar e pagar seus impostos em dia. Da vida não quero muito, quero apenas saber que tentei tudo o que quis.
+
+Lemmas in this profile that loaded on the factor:
+
+dia
+saber
+tentar
+trabalhar
+vida
+
+---------------
+# 000020
+score = 5
+https://mobile.twitter.com/gui_pradella
+
+u014852
+u:gui_pradella
+
+Ter medo não quer dizer que eu sou fraco ,sou um guerreiro no meio da guerra ,nada nessa vida é fácil mais se tiver fé a vitória é certa !
+
+Lemmas in this profile that loaded on the factor:
+
+certo
+dizer
+fé
+meio
+vida
+

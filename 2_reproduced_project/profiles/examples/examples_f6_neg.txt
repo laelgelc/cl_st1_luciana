@@ -1,0 +1,310 @@
+---------------
+# 000001
+score = -3
+https://mobile.twitter.com/csarafim
+
+u007867
+u:csarafim
+
+Tecnologia a serviço da humanidade. Empresário Brasileiro - https://t.co/F4LKGxyX1w Quero um Brasil melhor para todos.
+
+Lemmas in this profile that loaded on the factor:
+
+querer
+serviço
+tecnologia
+
+---------------
+# 000002
+score = -3
+https://mobile.twitter.com/demetrius_mjr22
+
+u008797
+u:demetrius_mjr22
+
+Pai de Família, Patriota. A serviço da Liberdade, Honestidade e Justiça. Não Parar, Não Precipitar e Não Retroceder. Verás que um filho teu não foge a luta.
+
+Lemmas in this profile that loaded on the factor:
+
+honestidade
+parar
+serviço
+
+---------------
+# 000003
+score = -3
+https://mobile.twitter.com/ishenriique
+
+u016087
+u:ishenriique
+
+curtir a vida é ser feliz! E quer felicidade maior do que me fazer feliz =D hahahah É fácil é só clicar em Follow Bjoo me segue! Shauhs
+
+Lemmas in this profile that loaded on the factor:
+
+fácil
+felicidade
+querer
+
+---------------
+# 000004
+score = -2
+https://mobile.twitter.com/adriano_bezer88
+
+u000946
+u:adriano_bezer88
+
+Simplesmente um homem que procura a felicidade nessa vida. Pai, filho, marido e irmão. Profissional de segurança pública. Força e honra. 💪🙏
+
+Lemmas in this profile that loaded on the factor:
+
+felicidade
+homem
+segurança
+
+---------------
+# 000005
+score = -2
+https://mobile.twitter.com/barbozalucaas
+
+u004102
+u:barbozalucaas
+
+Não sou um jornalista ou analista político, apenas um cara comum que não sabe de nada, mas quer opinar sobre tudo! Estudante de economia e história.
+
+Lemmas in this profile that loaded on the factor:
+
+cara
+jornalista
+querer
+
+---------------
+# 000006
+score = -2
+https://mobile.twitter.com/beckernaira
+
+u004229
+u:beckernaira
+
+sou brasileira, quero um país com os valores que caibam dentro dele, verdade, honra, honestidade, respeito, fraternidade e liberdade!
+
+Lemmas in this profile that loaded on the factor:
+
+honestidade
+querer
+verdade
+
+---------------
+# 000007
+score = -2
+https://mobile.twitter.com/beta_apeixoto
+
+u004374
+u:beta_apeixoto
+
+Jornalista mãe de 4 👼👧🏻👧🏻👶🏻 Redes sociais, copy, brand e jogo d cintura.🤓Posso t ajudar a ter 1 negócio digital p/ chamar de seu.Pergunte-me como👇🏽
+
+Lemmas in this profile that loaded on the factor:
+
+chamar
+jornalista
+poder
+
+---------------
+# 000008
+score = -2
+https://mobile.twitter.com/biancadsp
+
+u004500
+u:biancadsp
+
+Advogada, Jornalista, Pitaqueira Política, Suplente de Dep.Federal e Eleitora do Bolsonaro! Quem não lutar pelo Futuro que quer, Deve aceitar o Futuro que vier.
+
+Lemmas in this profile that loaded on the factor:
+
+jornalista
+querer
+
+---------------
+# 000009
+score = -2
+https://mobile.twitter.com/canal_filosofan
+
+u005604
+u:canal_filosofan
+
+Queremos trazer variados conceitos e reflexões da #filosofia de uma maneira divertida, sem retirar a complexidade do pensamento filosófico.
+
+Lemmas in this profile that loaded on the factor:
+
+pensamento
+querer
+
+---------------
+# 000010
+score = -2
+https://mobile.twitter.com/castorsom
+
+u006200
+u:castorsom
+
+Analista das besteiras alheias Procura melhor forma de ser feliz. - Nunca pare de tentar achar o caminho da felicidade porque a felicidade é esse caminho!
+
+Lemmas in this profile that loaded on the factor:
+
+achar
+felicidade
+parar
+tentar
+
+---------------
+# 000011
+score = -2
+https://mobile.twitter.com/chevy6i
+
+u006595
+u:chevy6i
+
+Patriota,ExtremaUltraMegaHiperDireita ,que quer curar nosso país desse câncer chamado esquerda e comunismo.
+
+Lemmas in this profile that loaded on the factor:
+
+chamar
+querer
+
+---------------
+# 000012
+score = -2
+https://mobile.twitter.com/claudinei_c_s
+
+u006974
+u:claudinei_c_s
+
+Parem o mundo que eu quero descer...
+
+Lemmas in this profile that loaded on the factor:
+
+parar
+querer
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/comunicapress
+
+u007412
+u:comunicapress
+
+Jornalista com o objetivo de assegurar versões e tendências de opinião da sociedade sobre os fatos. Usar a tecnologia a favor da comunicação social.
+
+Lemmas in this profile that loaded on the factor:
+
+jornalista
+tecnologia
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/deboraibrahimms
+
+u008640
+u:deboraibrahimms
+
+Meu coração é verde e amarelo e, se me chamar pra luta, quero estar na primeira fila!
+
+Lemmas in this profile that loaded on the factor:
+
+chamar
+querer
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/donizetebrand
+
+u009590
+u:donizetebrand
+
+JORNALISTA, apaixonado por Tecnologia da Informação, engajado no desenvolvimento de sites e aplicações web.
+
+Lemmas in this profile that loaded on the factor:
+
+jornalista
+tecnologia
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/emersonrtiago
+
+u011256
+u:emersonrtiago
+
+Não sou robô! Quero moralidade, honestidade e que o Brasil vença esses canalhas. Sou de direita e sou trabalhador. SDV.
+
+Lemmas in this profile that loaded on the factor:
+
+honestidade
+querer
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/emilysobral
+
+u011290
+u:emilysobral
+
+Jornalista em SST. Faço blog e podcast sobre segurança do trabalho. Esquerdista em 1981, na faculdade. Hoje, bem mais inteligente, virei de direita com orgulho.
+
+Lemmas in this profile that loaded on the factor:
+
+jornalista
+segurança
+
+---------------
+# 000018
+score = -2
+https://mobile.twitter.com/fabiansouza3
+
+u012012
+u:fabiansouza3
+
+Estudante de Tecnologia da Informação, apaixonado pela vida, amigo, pai, irmão, tio, enfim... alguém que só quer paz na vida!
+
+Lemmas in this profile that loaded on the factor:
+
+querer
+tecnologia
+
+---------------
+# 000019
+score = -2
+https://mobile.twitter.com/gui_pradella
+
+u014852
+u:gui_pradella
+
+Ter medo não quer dizer que eu sou fraco ,sou um guerreiro no meio da guerra ,nada nessa vida é fácil mais se tiver fé a vitória é certa !
+
+Lemmas in this profile that loaded on the factor:
+
+fácil
+meio
+querer
+
+---------------
+# 000020
+score = -2
+https://mobile.twitter.com/gustavoemota
+
+u014996
+u:gustavoemota
+
+Um jornalista e radialista que acredita muito mais na honestidade intelectual do que na imparcialidade.Cuidem-se dos imparciais...
+
+Lemmas in this profile that loaded on the factor:
+
+honestidade
+jornalista
+
