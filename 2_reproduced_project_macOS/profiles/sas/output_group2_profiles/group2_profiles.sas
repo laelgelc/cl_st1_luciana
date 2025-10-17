@@ -9,7 +9,7 @@
 
 %let myfolder = &project ;
 
-%let sasusername = u61738292 ;
+%let sasusername = u63529080 ;
 
 %let whereisit = /home/&sasusername ;   /* online */
 
@@ -36,7 +36,7 @@ options fmtsearch=(work library);
 %let communalcutoff = .15 ;
 
 DATA long1;
-  INFILE "/home/u61738292/&myfolder/data.txt" ;
+  INFILE "/home/u63529080/&myfolder/data.txt" ;
   length user $ 8 word $ 8 count 8 ;
   input user $ word $ count ;
 RUN;
@@ -68,7 +68,7 @@ run;
 proc datasets library=work nolist; delete corr  ; run;
 
 DATA corr;
-  INFILE "/home/u61738292/&myfolder/corr.txt" ;
+  INFILE "/home/u63529080/&myfolder/corr.txt" ;
   length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001000 8 ;
   input _TYPE_ $ _NAME_ $ v000001-v001000 ;
 RUN;
@@ -292,8 +292,8 @@ word_labels_format.sas
 
 */
 
-%include "/home/u61738292/&myfolder/user_labels_format.sas";
-%include "/home/u61738292/&myfolder/word_labels_format.sas";
+%include "/home/u63529080/&myfolder/user_labels_format.sas";
+%include "/home/u63529080/&myfolder/word_labels_format.sas";
 
 OPTIONS VALIDVARNAME=ANY;
 data rotated2;
@@ -800,7 +800,7 @@ data filelist;
   input root;
   retain filename dname ' ' level 0 dir 1;
 cards4;
-/home/u61738292/group2_profiles
+/home/u63529080/group2_profiles
 ;;;;
 run;
 
@@ -836,7 +836,7 @@ proc print data=filelist;
 run;
 
 /* name the zip file you want to zip into, e.g. */
-%let addcntzip = /home/u61738292/zip/output_&project..zip;
+%let addcntzip = /home/u63529080/zip/output_&project..zip;
 
 data _null_;
 
