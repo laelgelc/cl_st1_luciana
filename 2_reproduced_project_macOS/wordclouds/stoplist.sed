@@ -1,0 +1,16 @@
+/^twitterhandle$/d
+/^url/d
+/^v[ií]ruschin[eê]s_h/d
+/^lo/d
+/^los/d
+/^la/d
+/^las/d
+/^en/d
+/^el/d
+/^es/d
+/^con/d
+/^fazer/d
+/^chinar/d
+/^querer/d
+/^ter/d
+/^fazer/d
