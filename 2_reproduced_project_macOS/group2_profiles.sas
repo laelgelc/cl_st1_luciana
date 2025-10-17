@@ -494,7 +494,8 @@ RUN;
 
 /* data is in the main group_sas folder, not in the profiles sas folder */
 DATA followers;
-  INFILE "/home/&sasusername/&mainfolder/followers.txt"  ;
+  /*INFILE "/home/&sasusername/&mainfolder/followers.txt"  ;*/
+  INFILE "/home/&sasusername/&myfolder/followers.txt"  ;
   length user $ 8 followers 8 ;
   input user $ followers ;
   proc sort; by user ;
@@ -727,41 +728,39 @@ ods html close;
 proc transpose data= size out=rot; run;
 
 data temp (DROP= _NAME_); 
-  set rot ; 
-  IF _label_ = 'N' OR _label_ = 'Sum'; 
-  if _label_ = "N" then pretty="Texts";
-      else pretty="Words";
-run;
+      set rot ;
+      IF _label_ = 'N' OR _label_ = 'Sum';
+      if _label_ = "N" then pretty="Texts";
+          else pretty="Words";
+    run;
 
-data plotvalue;
-  set temp;
-  if _LABEL_ = 'Sum' then gridvalue = ceil(COL1/10000)*10000;
-run;
-proc sql noprint;
-    select max into :max separated by ' ' from plotvalue ;
-quit;
-data plotvalue;
-  set temp;
-  if _LABEL_ = 'N' then gridvalue = 10000 + ceil(COL1/10000)*10000;
-run;
-proc sql noprint;
-    select min into :min separated by ' ' from plotvalue ;
-quit;
+    data plotvalue;
+      set temp;
+      if _LABEL_ = 'Sum' then gridvalue = ceil(COL1/10000)*10000;
+    run;
+    proc sql noprint;
+        select max(gridvalue) into :max separated by ' ' from plotvalue ;
+    quit;
+    data plotvalue;
+      set temp;
+      if _LABEL_ = 'N' then gridvalue = 10000 + ceil(COL1/10000)*10000;
+    run;
+    proc sql noprint;
+        select min(gridvalue) into :min separated by ' ' from plotvalue ;
+    quit;
 
-ods listing gpath="&whereisit/&myfolder/";
-ods graphics on / reset imagename="corpus_size_profiles" imagefmt=png;
-proc sgplot data=temp ;
-  vbar pretty / response=COL1 
-            barwidth=0.5
-            fillattrs=graphdata4 
-            baselineattrs=(thickness=0) 
-            datalabel = COL1 datalabelattrs=(size=12) ;
-  title height=12pt "Corpus size";
-  yaxis grid label='Count' values=(0 TO &max BY 5000) ranges=(min-&min 360000-max);
-  xaxis label= "Measurement";
-run;
-
-  yaxis grid label='Count' values=(0 TO 380000 BY 5000) ranges=(min-40000 360000-max);
+    ods listing gpath="&whereisit/&myfolder/";
+    ods graphics on / reset imagename="corpus_size_profiles" imagefmt=png;
+    proc sgplot data=plotvalue ;
+      vbar pretty / response=COL1
+                barwidth=0.5
+                fillattrs=graphdata4
+                baselineattrs=(thickness=0)
+                datalabel = COL1 datalabelattrs=(size=12) ;
+      title height=12pt "Corpus size";
+      yaxis grid label='Count' values=(0 TO &max BY 5000) ranges=(min-&min 360000-max);
+      xaxis label= "Measurement";
+    run;
 
 /* R-Square table */
 
