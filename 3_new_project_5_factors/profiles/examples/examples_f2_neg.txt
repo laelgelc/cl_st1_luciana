@@ -1,52 +1,37 @@
 ---------------
 # 000001
 score = -3
-https://mobile.twitter.com/_joaopedrorossi
+https://mobile.twitter.com/pikititodj
 
-u000342
-u:_joaopedrorossi
+u027904
+u:pikititodj
 
-Colorado, gaúcho defensor da cultura, Engenheiro Agrônomo, mestrando em produção vegetal e apaixonado pela @_michelemn! Me permito mudar de opinião! 🟩🟥🟨
-
-Lemmas in this profile that loaded on the factor:
-
-green_square_e
-produção
-yellow_square_e
-
----------------
-# 000002
-score = -3
-https://mobile.twitter.com/biragomess
-
-u004578
-u:biragomess
-
-Pai , Administrador, MBA em MKT. Patriota 🇧🇷, Cristão,Sócio Proprietário do CRVG 💢 e NÃO tenho Bandido ou Político de Estimação. Esquerdopatas fiquem longe.
-
-Lemmas in this profile that loaded on the factor:
-
-estimação
-proprietário
-sócio
-
----------------
-# 000003
-score = -2
-https://mobile.twitter.com/andreavallet25
-
-u002823
-u:andreavallet25
-
-Produção musical
+🇧🇷 DJ Produtor musical & Vascaíno ✠ ▪️Mais de 100Mil inscritos no Youtube e disponível em todas as plataformas digitais. Ouça no spotify:⬇️
 
 Lemmas in this profile that loaded on the factor:
 
 musical
-produção
+produtor
+vascaíno
 
 ---------------
-# 000004
+# 000002
+score = -2
+https://mobile.twitter.com/anapaul57464044
+
+u002532
+u:anapaul57464044
+
+Formação academica; Enfermagem, Ed. Física escolar, Bacharel Personal Treiner 🦾, Teologia e Filosofia pela PUC-SP Religião : Católica Apostólica Romana
+
+Lemmas in this profile that loaded on the factor:
+
+apostólico
+bacharel
+enfermagem
+
+---------------
+# 000003
 score = -2
 https://mobile.twitter.com/antaonet
 
@@ -57,11 +42,12 @@ Lavrense,servidor público, educador físico, estudante, estressado, sarcástico
 
 Lemmas in this profile that loaded on the factor:
 
+educador
 servidor
 vagar
 
 ---------------
-# 000005
+# 000004
 score = -2
 https://mobile.twitter.com/betosantobsp
 
@@ -76,37 +62,22 @@ musical
 produtor
 
 ---------------
+# 000005
+score = -2
+https://mobile.twitter.com/biragomess
+
+u004578
+u:biragomess
+
+Pai , Administrador, MBA em MKT. Patriota 🇧🇷, Cristão,Sócio Proprietário do CRVG 💢 e NÃO tenho Bandido ou Político de Estimação. Esquerdopatas fiquem longe.
+
+Lemmas in this profile that loaded on the factor:
+
+proprietário
+sócio
+
+---------------
 # 000006
-score = -2
-https://mobile.twitter.com/carlose77664649
-
-u005900
-u:carlose77664649
-
-Engenheiro eletricista e patriota. O Brasil tem que parar. 🟨🟩
-
-Lemmas in this profile that loaded on the factor:
-
-green_square_e
-yellow_square_e
-
----------------
-# 000007
-score = -2
-https://mobile.twitter.com/conservamidia1
-
-u007459
-u:conservamidia1
-
-Reunir e apoiar o jornalismo e produtores de conteúdo de mídia independestes com essência conservadora.
-
-Lemmas in this profile that loaded on the factor:
-
-conteúdo
-produtor
-
----------------
-# 000008
 score = -2
 https://mobile.twitter.com/cordeirogroove
 
@@ -121,7 +92,22 @@ musical
 produtor
 
 ---------------
-# 000009
+# 000007
+score = -2
+https://mobile.twitter.com/cssiovieira3
+
+u007891
+u:cssiovieira3
+
+Produtor de Leite, Médico Veterinário e criador da raça Gir Leiteiro
+
+Lemmas in this profile that loaded on the factor:
+
+produtor
+veterinário
+
+---------------
+# 000008
 score = -2
 https://mobile.twitter.com/deejay_amk
 
@@ -136,7 +122,7 @@ musical
 produtor
 
 ---------------
-# 000010
+# 000009
 score = -2
 https://mobile.twitter.com/edconsmf
 
@@ -151,7 +137,7 @@ proprietário
 sócio
 
 ---------------
-# 000011
+# 000010
 score = -2
 https://mobile.twitter.com/ederediego
 
@@ -166,7 +152,7 @@ musical
 produtor
 
 ---------------
-# 000012
+# 000011
 score = -2
 https://mobile.twitter.com/emerson_vas
 
@@ -181,7 +167,7 @@ proprietário
 sócio
 
 ---------------
-# 000013
+# 000012
 score = -2
 https://mobile.twitter.com/emmi_ricardo
 
@@ -194,6 +180,21 @@ Lemmas in this profile that loaded on the factor:
 
 musical
 sócio
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/fellipeportal
+
+u012615
+u:fellipeportal
+
+Patriota. Servidor Público. investidor de alto risco. Carioca Vascaíno /+/
+
+Lemmas in this profile that loaded on the factor:
+
+servidor
+vascaíno
 
 ---------------
 # 000014
@@ -213,6 +214,21 @@ sócio
 ---------------
 # 000015
 score = -2
+https://mobile.twitter.com/gusta_vaomello
+
+u014971
+u:gusta_vaomello
+
+Gustavo Gusmão🇧🇷, Aqui é Furacão ❤️🌪🖤, Cervejas Artesanais🍻, anti PT🚮, e Proprietário da Cactus Thermical🌵. Instagram gustavo79mello / cactus_thermical
+
+Lemmas in this profile that loaded on the factor:
+
+cactus_e
+proprietário
+
+---------------
+# 000016
+score = -2
 https://mobile.twitter.com/gustavo_eccon
 
 u014991
@@ -226,7 +242,22 @@ proprietário
 sócio
 
 ---------------
-# 000016
+# 000017
+score = -2
+https://mobile.twitter.com/hliofigueired17
+
+u015518
+u:hliofigueired17
+
+Professor, Servidor Público Federal, Técnico de Entomologia, Técnico de Enfermagem, Técnico de Zoonoses, Casado e pai de dois filhos e Cristão temente a Deus.
+
+Lemmas in this profile that loaded on the factor:
+
+enfermagem
+servidor
+
+---------------
+# 000018
 score = -2
 https://mobile.twitter.com/hsrickli
 
@@ -241,7 +272,7 @@ musical
 produtor
 
 ---------------
-# 000017
+# 000019
 score = -2
 https://mobile.twitter.com/iamdiguinho
 
@@ -256,23 +287,7 @@ musical
 produtor
 
 ---------------
-# 000018
-score = -2
-https://mobile.twitter.com/josdossantospi5
-
-u017777
-u:josdossantospi5
-
-Músico amador multi instrumentista, Bacharel em arte musical, Bacharel em química industrial e eng. de produção, professor e amante de carros antigos.🅾️-
-
-Lemmas in this profile that loaded on the factor:
-
-bacharel
-musical
-produção
-
----------------
-# 000019
+# 000020
 score = -2
 https://mobile.twitter.com/lcdeaquino
 
@@ -285,20 +300,4 @@ Lemmas in this profile that loaded on the factor:
 
 produtor
 servidor
-
----------------
-# 000020
-score = -2
-https://mobile.twitter.com/logicaauto
-
-u020535
-u:logicaauto
-
-⚙️🔩🔧Especialista em Máquinas⚙️🔩🔧 📺YouTuber produtor de conteúdo📺 ⚗️Teste de produtos ⚗️
-
-Lemmas in this profile that loaded on the factor:
-
-conteúdo
-especialista
-produtor
 

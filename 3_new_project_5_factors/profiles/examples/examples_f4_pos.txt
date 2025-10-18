@@ -1,25 +1,43 @@
 ---------------
 # 000001
-score = 6
-https://mobile.twitter.com/oswaldomouranet
+score = 5
+https://mobile.twitter.com/raphael112vasco
 
-u026756
-u:oswaldomouranet
+u028853
+u:raphael112vasco
 
-ADVOGADO;COMERCIANTE DE VEÍCULOS;VASCAÍNO;PT;LULA;DILMA;HADDAD; ROCK 'N' ROLL; LIVROS;CINEMA;BOA MÚSICA;SÉRIES;ESPORTES;BOA POLÍTICA E JORNALISMO SÉRIO.
+Sou Vascaíno. Gosto de ter uma vida saudável e esportiva. Amo de futebol, praias, shoppings, casas de shows, viajar e conhecer novos lugares e fazer Amizades.
 
 Lemmas in this profile that loaded on the factor:
 
-esporte
-livro
-música
-política
-série
-sério
+casa
+futebol
+gosto
+novo
 vascaíno
+viajar
 
 ---------------
 # 000002
+score = 5
+https://mobile.twitter.com/rafaelcxp
+
+u028662
+u:rafaelcxp
+
+Adoro esportes, músicas e livros. Casado e tenho dois maravilhosos filhos.
+
+Lemmas in this profile that loaded on the factor:
+
+adorar
+esporte
+filho
+livro
+maravilhoso
+música
+
+---------------
+# 000003
 score = 5
 https://mobile.twitter.com/leosanes
 
@@ -37,43 +55,7 @@ gosto
 viajar
 
 ---------------
-# 000003
-score = 5
-https://mobile.twitter.com/jtttapia
-
-u018243
-u:jtttapia
-
-Tranquila mas tenho meus 5 minutos. Adoro livros, filmes e seriados. Amo música, vinho, animais, BD. Interesse em política e economia. 🇧🇷🇨🇱 minhas pátrias.
-
-Lemmas in this profile that loaded on the factor:
-
-adorar
-filme
-livro
-música
-política
-
----------------
 # 000004
-score = 5
-https://mobile.twitter.com/joao_merisio
-
-u017251
-u:joao_merisio
-
-🇧🇷Brasileiro, capixaba da paz e de áries, gosto de política, música(rock clássico), turismo (viagens e praias), esportes (futebol Flamengo e Barcelona)🇧🇷
-
-Lemmas in this profile that loaded on the factor:
-
-esporte
-futebol
-gosto
-música
-política
-
----------------
-# 000005
 score = 5
 https://mobile.twitter.com/fagundexvitor
 
@@ -91,7 +73,7 @@ músico
 série
 
 ---------------
-# 000006
+# 000005
 score = 5
 https://mobile.twitter.com/basiliosantos
 
@@ -109,58 +91,7 @@ livro
 música
 
 ---------------
-# 000007
-score = 4
-https://mobile.twitter.com/wesley_wods
-
-u035839
-u:wesley_wods
-
-Adoro comentar sobre política, mercado financeiro, futebol, NFL, religião e música! Economia & Controladoria Coríntios 1-13 @Atletico
-
-Lemmas in this profile that loaded on the factor:
-
-adorar
-futebol
-música
-política
-
----------------
-# 000008
-score = 4
-https://mobile.twitter.com/updt_real
-
-u034431
-u:updt_real
-
-Vamos discutir Um Pouco de Tudo, desde política, religião, filosofia até futebol.
-
-Lemmas in this profile that loaded on the factor:
-
-filosofia
-futebol
-política
-pouco
-
----------------
-# 000009
-score = 4
-https://mobile.twitter.com/tuliocrocha
-
-u034285
-u:tuliocrocha
-
-Opiniões nem sempre sensatas e certas, futilidades, política, séries, livros, cristianismo, e ciente de que estou em construção.
-
-Lemmas in this profile that loaded on the factor:
-
-livro
-opinião
-política
-série
-
----------------
-# 000010
+# 000006
 score = 4
 https://mobile.twitter.com/t_guilhermee
 
@@ -177,77 +108,26 @@ música
 série
 
 ---------------
-# 000011
+# 000007
 score = 4
-https://mobile.twitter.com/rodrigo81mengo
+https://mobile.twitter.com/oswaldomouranet
 
-u030239
-u:rodrigo81mengo
+u026756
+u:oswaldomouranet
 
-Falo sobre esporte, política, religião, humor, música, assuntos do cotidiano, notícias em geral e principalmente sobre C. R. FLAMENGO. Brasil 🇧🇷
+ADVOGADO;COMERCIANTE DE VEÍCULOS;VASCAÍNO;PT;LULA;DILMA;HADDAD; ROCK 'N' ROLL; LIVROS;CINEMA;BOA MÚSICA;SÉRIES;ESPORTES;BOA POLÍTICA E JORNALISMO SÉRIO.
 
 Lemmas in this profile that loaded on the factor:
 
-esporte
-falar
-música
-notícia
-política
-
----------------
-# 000012
-score = 4
-https://mobile.twitter.com/raphael112vasco
-
-u028853
-u:raphael112vasco
-
-Sou Vascaíno. Gosto de ter uma vida saudável e esportiva. Amo de futebol, praias, shoppings, casas de shows, viajar e conhecer novos lugares e fazer Amizades.
-
-Lemmas in this profile that loaded on the factor:
-
-futebol
-gosto
-vascaíno
-viajar
-
----------------
-# 000013
-score = 4
-https://mobile.twitter.com/rafaelcxp
-
-u028662
-u:rafaelcxp
-
-Adoro esportes, músicas e livros. Casado e tenho dois maravilhosos filhos.
-
-Lemmas in this profile that loaded on the factor:
-
-adorar
 esporte
 livro
 música
-
----------------
-# 000014
-score = 4
-https://mobile.twitter.com/opinamundos
-
-u026609
-u:opinamundos
-
-Um mundo de opiniões, política, sociedade e cultura. Links, videos, redes sociais Opinamundos, promoções, ofertas e doações - (Link bios)
-
-Lemmas in this profile that loaded on the factor:
-
-mundo
-opinião
 política
-rede
-social
+série
+vascaíno
 
 ---------------
-# 000015
+# 000008
 score = 4
 https://mobile.twitter.com/nilsinhoviola
 
@@ -265,24 +145,7 @@ gostar
 pouco
 
 ---------------
-# 000016
-score = 4
-https://mobile.twitter.com/misscaroltitia
-
-u024754
-u:misscaroltitia
-
-Meu twitter minhas regras -👊Sem DM 🚫Um pouco de séries, músicas, humor, receitinhas e muita política. Cristã ✝️ Aguardando a democracia 🤡
-
-Lemmas in this profile that loaded on the factor:
-
-música
-política
-pouco
-série
-
----------------
-# 000017
+# 000009
 score = 4
 https://mobile.twitter.com/mel_estanislau
 
@@ -300,24 +163,7 @@ livro
 tecnologia
 
 ---------------
-# 000018
-score = 4
-https://mobile.twitter.com/medrado304
-
-u024212
-u:medrado304
-
-Mineiro, Contabilista, casado, Torcedor do GALO , mais lindo do Mundo, Adoro viajar, conheço 18 estados, morei em 6 estados, sou de DIREITA
-
-Lemmas in this profile that loaded on the factor:
-
-adorar
-mundo
-torcedor
-viajar
-
----------------
-# 000019
+# 000010
 score = 4
 https://mobile.twitter.com/manusassi
 
@@ -334,20 +180,176 @@ música
 viajar
 
 ---------------
-# 000020
+# 000011
 score = 4
-https://mobile.twitter.com/luizfelipem89
+https://mobile.twitter.com/kessysouza19
 
-u021334
-u:luizfelipem89
+u019021
+u:kessysouza19
 
-Carioca, flamenguista, gestor de logística e estudante de História. Falo de religião, futebol e política: tudo que as pessoas não gostam!
+Gosto de música eletrônica, amo viajar e sair com os amigos. Aah e sou patriota com muito orgulho !!!
 
 Lemmas in this profile that loaded on the factor:
 
-estudante
+amigo
+gosto
+música
+viajar
+
+---------------
+# 000012
+score = 4
+https://mobile.twitter.com/kellyfontinni
+
+u018972
+u:kellyfontinni
+
+' Sou TRICOLOR de coração, louca por NXZERO, apaixonada pelo #JEAN_02, adoro ROSA & não vivo sem FUTEBOL.Não me julgue pela capa apenas SIGA e CONHEÇA ' ♥ Obg
+
+Lemmas in this profile that loaded on the factor:
+
+adorar
+apaixonar
 futebol
-gostar
-pessoa
+louco
+
+---------------
+# 000013
+score = 4
+https://mobile.twitter.com/jtttapia
+
+u018243
+u:jtttapia
+
+Tranquila mas tenho meus 5 minutos. Adoro livros, filmes e seriados. Amo música, vinho, animais, BD. Interesse em política e economia. 🇧🇷🇨🇱 minhas pátrias.
+
+Lemmas in this profile that loaded on the factor:
+
+adorar
+filme
+livro
+música
 política
+
+---------------
+# 000014
+score = 4
+https://mobile.twitter.com/joao_merisio
+
+u017251
+u:joao_merisio
+
+🇧🇷Brasileiro, capixaba da paz e de áries, gosto de política, música(rock clássico), turismo (viagens e praias), esportes (futebol Flamengo e Barcelona)🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+esporte
+futebol
+gosto
+música
+política
+
+---------------
+# 000015
+score = 4
+https://mobile.twitter.com/ggeorgermg
+
+u014111
+u:ggeorgermg
+
+Homem, pai e profissional em eletrônica. Grande fan de Rock e HQs. Livros, filmes e séries. E sempre ligado em novas tecnologias. Alem de espiritualização.
+
+Lemmas in this profile that loaded on the factor:
+
+filme
+livro
+novo
+série
+tecnologia
+
+---------------
+# 000016
+score = 4
+https://mobile.twitter.com/elcidcambarah
+
+u010725
+u:elcidcambarah
+
+Democracia, liberdade, justiça. Flamengo, vento, comida. Software, tradução, empreender. Música, livros, filmes e séries.
+
+Lemmas in this profile that loaded on the factor:
+
+filme
+livro
+música
+série
+
+---------------
+# 000017
+score = 4
+https://mobile.twitter.com/deboradamaceno6
+
+u008633
+u:deboradamaceno6
+
+No âmbito político sou direita conservadora, casada, apaixonada pelos equinos e gosto muito de séries e filmes!
+
+Lemmas in this profile that loaded on the factor:
+
+apaixonar
+filme
+gostar
+série
+
+---------------
+# 000018
+score = 4
+https://mobile.twitter.com/daianaxd31
+
+u008005
+u:daianaxd31
+
+Professora, cristã, amo a familia, a vida, livros, séries e filmes e viajar! Deus a cima de todos! Atualização: sou Bolsonaro e votarei nele em 2022 🇧🇷🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+filme
+livro
+série
+viajar
+
+---------------
+# 000019
+score = 4
+https://mobile.twitter.com/anamach19803559
+
+u002477
+u:anamach19803559
+
+Sou curiosa, inteligente, gosto de viajar, ler livros, ouvir música.
+
+Lemmas in this profile that loaded on the factor:
+
+gosto
+livro
+música
+ouvir
+viajar
+
+---------------
+# 000020
+score = 4
+https://mobile.twitter.com/allansilver22
+
+u001974
+u:allansilver22
+
+Curto animes/série/filme/ler/jogar/estudar e me atualizar sobre notícias. Ah! Adoro boa músicas🎧, amante da natureza 🌱 e sair por aí.
+
+Lemmas in this profile that loaded on the factor:
+
+adorar
+filme
+música
+série
 

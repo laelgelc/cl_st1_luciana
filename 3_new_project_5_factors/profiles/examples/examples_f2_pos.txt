@@ -20,6 +20,141 @@ vida
 
 ---------------
 # 000002
+score = 7
+https://mobile.twitter.com/bdgigibdgigigi
+
+u004200
+u:bdgigibdgigigi
+
+Todos dias tento agir com princípios e respeito ao próximo. Espero, confio que conseguiremos um país melhor e livre de corrupção.Fé #política
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+dia
+esperar
+fé
+livre
+próximo
+tentar
+
+---------------
+# 000003
+score = 6
+https://mobile.twitter.com/vkelly64692998
+
+u035370
+u:vkelly64692998
+
+Democracia ☘️ Liberdade ☘️ Acreditar que um dia o ser humano será compatível ao amor ao próximo como Deus nos ensinou. Apaixonada por meu 🇧🇷.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+deus
+dia
+ensinar
+humano
+próximo
+
+---------------
+# 000004
+score = 6
+https://mobile.twitter.com/silvio_heleno
+
+u032298
+u:silvio_heleno
+
+tranquilo coisas certas nada de errado sem MENTIRA acima de tudo...... TENENTE A DEUS SOBRE TODO AS SA COISAS VIVA UM DIA APÓS O OUTRO 👏🏿👍🏿🤜🏿🤛🏿💪🏿🤗😍
+
+Lemmas in this profile that loaded on the factor:
+
+certo
+coisa
+deus
+dia
+errar
+viver
+
+---------------
+# 000005
+score = 6
+https://mobile.twitter.com/r666778
+
+u028536
+u:r666778
+
+Hell-o!🔥Welcome to Hell🔥CRIADO COM O DIVINO PODER, O SABER SUPREMO E O PRIMEIRO AMOR. ANTES DE MIM NADA EXISTIU.APENAS O QUE É ETERNO. E ETERNO EU SOU.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+criar
+eterno
+existir
+poder
+saber
+
+---------------
+# 000006
+score = 6
+https://mobile.twitter.com/kaio19781952
+
+u018729
+u:kaio19781952
+
+viver e ser livre saber dar valor paras coisas mais simples só o amor constrói pontes indestrutíveis.
+
+Lemmas in this profile that loaded on the factor:
+
+amor
+coisa
+livre
+saber
+simples
+viver
+
+---------------
+# 000007
+score = 6
+https://mobile.twitter.com/gui_pradella
+
+u014852
+u:gui_pradella
+
+Ter medo não quer dizer que eu sou fraco ,sou um guerreiro no meio da guerra ,nada nessa vida é fácil mais se tiver fé a vitória é certa !
+
+Lemmas in this profile that loaded on the factor:
+
+certo
+dizer
+fé
+guerra
+meio
+querer
+vida
+
+---------------
+# 000008
+score = 6
+https://mobile.twitter.com/francy_xavyer_
+
+u013441
+u:francy_xavyer_
+
+💜💜BACHARELA EM DIREITO, PASTORA, MÃE, ESPOSA E SERVA DO REI JESUS, A SERVIÇO DO REINO💚💚O TEMPO DE DEUS É A MELHOR COISA, POIS CHEGA NA HORA CERTA!!!!
+
+Lemmas in this profile that loaded on the factor:
+
+bom
+certo
+chegar
+coisa
+deus
+tempo
+
+---------------
+# 000009
 score = 6
 https://mobile.twitter.com/damamis
 
@@ -39,26 +174,45 @@ verdade
 vida
 
 ---------------
-# 000003
+# 000010
 score = 6
-https://mobile.twitter.com/bdgigibdgigigi
+https://mobile.twitter.com/antoniosccarva1
 
-u004200
-u:bdgigibdgigigi
+u003412
+u:antoniosccarva1
 
-Todos dias tento agir com princípios e respeito ao próximo. Espero, confio que conseguiremos um país melhor e livre de corrupção.Fé #política
+A gratidão preenche meu coração e torna minha vida cheia de amor, honra, empatia, saúde, prosperidade, empatia, equilíbrio e sabedoria para viver em paz.
 
 Lemmas in this profile that loaded on the factor:
 
-bom
-dia
-esperar
-fé
-próximo
-tentar
+amor
+cheio
+paz
+tornar
+vida
+viver
 
 ---------------
-# 000004
+# 000011
+score = 6
+https://mobile.twitter.com/alessan55125583
+
+u001513
+u:alessan55125583
+
+Sabemos que somos de Deus e que o mundo todo está sob o poder do Maligno. 1 João 5:19 Buscando respostas em um mundo cheio de mentiras. #BolsonaroAte2026 🇧🇷🌴
+
+Lemmas in this profile that loaded on the factor:
+
+buscar
+cheio
+deus
+mundo
+poder
+saber
+
+---------------
+# 000012
 score = 5
 https://mobile.twitter.com/wendenys
 
@@ -76,7 +230,7 @@ tornar
 vida
 
 ---------------
-# 000005
+# 000013
 score = 5
 https://mobile.twitter.com/wellimar
 
@@ -94,7 +248,7 @@ vida
 viver
 
 ---------------
-# 000006
+# 000014
 score = 5
 https://mobile.twitter.com/vtrparaibana
 
@@ -108,49 +262,12 @@ Lemmas in this profile that loaded on the factor:
 bom
 buscar
 coisa
+felicidade
 simples
 sonho
 
 ---------------
-# 000007
-score = 5
-https://mobile.twitter.com/vkelly64692998
-
-u035370
-u:vkelly64692998
-
-Democracia ☘️ Liberdade ☘️ Acreditar que um dia o ser humano será compatível ao amor ao próximo como Deus nos ensinou. Apaixonada por meu 🇧🇷.
-
-Lemmas in this profile that loaded on the factor:
-
-amor
-deus
-dia
-ensinar
-humano
-próximo
-
----------------
-# 000008
-score = 5
-https://mobile.twitter.com/silvio_heleno
-
-u032298
-u:silvio_heleno
-
-tranquilo coisas certas nada de errado sem MENTIRA acima de tudo...... TENENTE A DEUS SOBRE TODO AS SA COISAS VIVA UM DIA APÓS O OUTRO 👏🏿👍🏿🤜🏿🤛🏿💪🏿🤗😍
-
-Lemmas in this profile that loaded on the factor:
-
-certo
-coisa
-deus
-dia
-errar
-viver
-
----------------
-# 000009
+# 000015
 score = 5
 https://mobile.twitter.com/roth380
 
@@ -169,7 +286,7 @@ pensar
 verdade
 
 ---------------
-# 000010
+# 000016
 score = 5
 https://mobile.twitter.com/ronaldo91865230
 
@@ -182,189 +299,83 @@ Lemmas in this profile that loaded on the factor:
 
 bom
 dia
-filho
 pessoa
+querer
 tornar
 viver
 
 ---------------
-# 000011
-score = 5
-https://mobile.twitter.com/r666778
-
-u028536
-u:r666778
-
-Hell-o!🔥Welcome to Hell🔥CRIADO COM O DIVINO PODER, O SABER SUPREMO E O PRIMEIRO AMOR. ANTES DE MIM NADA EXISTIU.APENAS O QUE É ETERNO. E ETERNO EU SOU.
-
-Lemmas in this profile that loaded on the factor:
-
-amor
-criar
-eterno
-existir
-poder
-saber
-
----------------
-# 000012
-score = 5
-https://mobile.twitter.com/nayara_priscila
-
-u025666
-u:nayara_priscila
-
-22 anos, Escorpiana; Futura Fisioterapeuta; Aquela que acredita no poder que as palavras possuem e que ama as coisas mais simples da vida!
-
-Lemmas in this profile that loaded on the factor:
-
-coisa
-palavra
-poder
-simples
-vida
-
----------------
-# 000013
-score = 5
-https://mobile.twitter.com/loouisemendes_
-
-u020564
-u:loouisemendes_
-
-Nasci e desde então muitos desastres ocorrem a minha volta. Tentando trabalhar o bom humor quando acordo todos os dias, sem sucesso (ainda).
-
-Lemmas in this profile that loaded on the factor:
-
-bom
-dia
-nascer
-tentar
-trabalhar
-
----------------
-# 000014
-score = 5
-https://mobile.twitter.com/karinamanzela
-
-u018814
-u:karinamanzela
-
-Tento ser um ser melhor a cada dia.. aprendendo a deixar Deus me guiar pelo caminho Dele. Não sei de nada, não sei do meu futuro, eu sei que a Ele pertence....
-
-Lemmas in this profile that loaded on the factor:
-
-aprender
-bom
-dia
-saber
-tentar
-
----------------
-# 000015
-score = 5
-https://mobile.twitter.com/kaio19781952
-
-u018729
-u:kaio19781952
-
-viver e ser livre saber dar valor paras coisas mais simples só o amor constrói pontes indestrutíveis.
-
-Lemmas in this profile that loaded on the factor:
-
-amor
-coisa
-saber
-simples
-viver
-
----------------
-# 000016
-score = 5
-https://mobile.twitter.com/jadirloppes
-
-u016413
-u:jadirloppes
-
-faça a coisa certa. Sempre!!! https://t.co/tTmMeIFhVt Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida. Ninguém vai ao pai se não por mim. Namastê
-
-Lemmas in this profile that loaded on the factor:
-
-certo
-coisa
-dizer
-verdade
-vida
-
----------------
 # 000017
 score = 5
-https://mobile.twitter.com/izaceliacosta
+https://mobile.twitter.com/pv_regina
 
-u016292
-u:izaceliacosta
+u028471
+u:pv_regina
 
-Pastora, Bolsonaro 🇧🇷 Como é sublime saber amar, com a alma adorar a terra onde se nasce, amor febril pelo Brasil, no coração nosso que passe. Izaceliacrochê
+Por um mundo melhor. Amor ao próximo. Não fazer aos outros o que não quer para si. Eu quero é ser feliz.
 
 Lemmas in this profile that loaded on the factor:
 
-alma
 amor
-nascer
-saber
-terra
+bom
+feliz
+mundo
+próximo
+querer
 
 ---------------
 # 000018
 score = 5
-https://mobile.twitter.com/israelguedesban
+https://mobile.twitter.com/pretoweio
 
-u016115
-u:israelguedesban
+u028212
+u:pretoweio
 
-Soy una persona que le gusta aprender cada dia mas de la vida. #Diosesbueno Sou uma pessoa que ama aprender dia a dia. Deus é bom #musico Profesor #Cristiano
+A vida apenas é , seguindo sem nos consultar . A felicidade existe , nas coisas simples , peço coragem para poder toca-la , no mais , Saúde & Sorte .
 
 Lemmas in this profile that loaded on the factor:
 
-aprender
-bom
-dia
-pessoa
+coisa
+existir
+felicidade
+poder
+simples
 vida
 
 ---------------
 # 000019
 score = 5
-https://mobile.twitter.com/helio_cortez
+https://mobile.twitter.com/paulinhakasper
 
-u015251
-u:helio_cortez
+u027279
+u:paulinhakasper
 
-Um cara que levanta cedo para trabalhar e pagar seus impostos em dia. Da vida não quero muito, quero apenas saber que tentei tudo o que quis.
+Quer saber mais, precisa me conhecer de verdade. Bora bater um papo? Gosto de falar sobre tudo…Mas se descer o nível, te bloqueio! Preguiça de gente vazia.
 
 Lemmas in this profile that loaded on the factor:
 
-dia
+conhecer
+gente
+precisar
+querer
 saber
-tentar
-trabalhar
-vida
+verdade
 
 ---------------
 # 000020
 score = 5
-https://mobile.twitter.com/gui_pradella
+https://mobile.twitter.com/ninastorrer
 
-u014852
-u:gui_pradella
+u026076
+u:ninastorrer
 
-Ter medo não quer dizer que eu sou fraco ,sou um guerreiro no meio da guerra ,nada nessa vida é fácil mais se tiver fé a vitória é certa !
+NÃO PERMITA que o ESTADO avance sobre sua LIBERDADE!Não são pessoas ungidas que sabem o que é melhor pra você e para sua família!Erram,acertam como todo mundo.
 
 Lemmas in this profile that loaded on the factor:
 
-certo
-dizer
-fé
-meio
-vida
+bom
+errar
+mundo
+pessoa
+saber
 

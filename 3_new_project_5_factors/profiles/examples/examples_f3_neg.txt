@@ -1,115 +1,277 @@
 ---------------
 # 000001
 score = -3
-https://mobile.twitter.com/celacanto1928
+https://mobile.twitter.com/barros1210
 
-u006335
-u:celacanto1928
+u004127
+u:barros1210
 
-Na Grécia antiga não existiam políticos era o povo que decidia seus interesses nas Ágoras. porque precisamos intermediacao ? apenas para gastar dinheiro do povo
+“Homens fortes criam tempos fáceis e tempos fáceis geram homens fracos, mas homens fracos criam tempos difíceis e tempos difíceis geram homens fortes “
 
 Lemmas in this profile that loaded on the factor:
 
-dinheiro
-existir
-precisar
+difícil
+fácil
+fraco
+tempo
 
 ---------------
 # 000002
 score = -3
-https://mobile.twitter.com/claudiofalatudo
+https://mobile.twitter.com/brazilhello
 
-u007017
-u:claudiofalatudo
+u004973
+u:brazilhello
 
-Cheio do mundo chato e radical Usando direito à livre expressão, sem me importar se vc gosta ou não. BOLSONARO PRECISA SER DERROTADO. O MAL NÃO PODE CONTINUAR
+não me leve a sério, resolvi parar por aqui e fazê-lo refletir ...
 
 Lemmas in this profile that loaded on the factor:
 
-cheio
-precisar
-usar
+levar
+parar
+sério
 
 ---------------
 # 000003
 score = -3
-https://mobile.twitter.com/daniboy00001
+https://mobile.twitter.com/celiomartignago
 
-u008102
-u:daniboy00001
+u006369
+u:celiomartignago
 
-Ganhe dinheiro usando apenas seu celular ⤵️
+sou um cara maneiro. Respeito as opniões alheias, desde que saibam ouvir, bem como, respeitem meu espaço. Mentiras, hipocrisia e mediocridade são intoleráveis
+
+Lemmas in this profile that loaded on the factor:
+
+cara
+mentira
+ouvir
+saber
+
+---------------
+# 000004
+score = -3
+https://mobile.twitter.com/crlcezar
+
+u007836
+u:crlcezar
+
+Leigo (leio,ouço, vejo, penso, reflito e escrevo como desabafo o que entendo e acho).
+
+Lemmas in this profile that loaded on the factor:
+
+achar
+entender
+ouvir
+pensar
+
+---------------
+# 000005
+score = -3
+https://mobile.twitter.com/debscristina_
+
+u008650
+u:debscristina_
+
+“E que o tempo leve todas as mentiras, todas as mágoas, todas as dores, e que um novo caminho para a felicidade surja.”
+
+Lemmas in this profile that loaded on the factor:
+
+felicidade
+levar
+mentira
+tempo
+
+---------------
+# 000006
+score = -3
+https://mobile.twitter.com/etatiba
+
+u011620
+u:etatiba
+
+Homens fortes criam tempos fáceis e tempos fáceis geram homens fracos, mas homens fracos criam tempos difíceis e tempos difíceis geram homens fortes.
+
+Lemmas in this profile that loaded on the factor:
+
+difícil
+fácil
+fraco
+tempo
+
+---------------
+# 000007
+score = -3
+https://mobile.twitter.com/fabao_
+
+u011943
+u:fabao_
+
+“Homens fortes criam tempos fáceis; Tempos fáceis geram homens fracos; Homens fracos criam tempos difíceis; Tempos difíceis geram homens fortes”
+
+Lemmas in this profile that loaded on the factor:
+
+difícil
+fácil
+fraco
+tempo
+
+---------------
+# 000008
+score = -3
+https://mobile.twitter.com/isaiasbraga14
+
+u016057
+u:isaiasbraga14
+
+Homens fortes criam tempos fáceis, tempos fáceis geram homens fracos. Homens fracos criam tempos difíceis, tempos difíceis geram homens fortes.
+
+Lemmas in this profile that loaded on the factor:
+
+difícil
+fácil
+fraco
+tempo
+
+---------------
+# 000009
+score = -3
+https://mobile.twitter.com/nathalie22ian
+
+u025627
+u:nathalie22ian
+
+Acredito num mundo melhor! Isso depende de mim e de você. Procuro fazer o melhor em benefício dele e das pessoas, às vezes é difícil, mas pelo menos tento.
+
+Lemmas in this profile that loaded on the factor:
+
+depender
+difícil
+procurar
+
+---------------
+# 000010
+score = -3
+https://mobile.twitter.com/theclaytinho
+
+u033653
+u:theclaytinho
+
+Que a alegria e a felicidade que me rodeiam... Possa te contagiar, a ponto de se sentir abençoado!
+
+Lemmas in this profile that loaded on the factor:
+
+felicidade
+ponto
+sentir
+
+---------------
+# 000011
+score = -2
+https://mobile.twitter.com/7rautman
+
+u000204
+u:7rautman
+
+Alguns não procuram nada lógico como dinheiro, eles fazem por um propósito e por isso não são comparáveis, razoáveis, ameaçáveis ou negociáveis.
 
 Lemmas in this profile that loaded on the factor:
 
 dinheiro
-ganhar
-usar
+procurar
 
 ---------------
-# 000004
+# 000012
 score = -2
-https://mobile.twitter.com/_malafaia_
+https://mobile.twitter.com/_joaopedrorossi
 
-u000368
-u:_malafaia_
+u000342
+u:_joaopedrorossi
 
-Questione e compare tudo ao seu redor, nossa mente precisa ser livre e soberana para as escolhas...
+Colorado, gaúcho defensor da cultura, Engenheiro Agrônomo, mestrando em produção vegetal e apaixonado pela @_michelemn! Me permito mudar de opinião! 🟩🟥🟨
+
+Lemmas in this profile that loaded on the factor:
+
+green_square_e
+yellow_square_e
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/ademildojnior1
+
+u000733
+u:ademildojnior1
+
+Não parar, não precipitar, não retroceder.
+
+Lemmas in this profile that loaded on the factor:
+
+parar
+retroceder
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/adrirmachado
+
+u001014
+u:adrirmachado
+
+Buscando o caminho para a paz e felicidade entre as muitas mentiras propagadas.
+
+Lemmas in this profile that loaded on the factor:
+
+felicidade
+mentira
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/alvescontabeis
+
+u002124
+u:alvescontabeis
+
+Não parar, não precipitar e não retroceder! 🇧🇷🇧🇷🇧🇷🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+parar
+retroceder
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/alvriotw
+
+u002144
+u:alvriotw
+
+Sendo BEM claro.APARTIDÁRIO!Mas com inteligência,pensamento crítico,olhos de ver,ouvidos de ouvir! #TODOSosCORRUPTOSPresos.
+
+Lemmas in this profile that loaded on the factor:
+
+olho
+ouvir
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/anacarneirortiz
+
+u002365
+u:anacarneirortiz
+
+Mantenha os pés firmes, os olhos atentos e a mente aberta! 💚💛
 
 Lemmas in this profile that loaded on the factor:
 
 mente
-precisar
+olho
 
 ---------------
-# 000005
-score = -2
-https://mobile.twitter.com/alessan55125583
-
-u001513
-u:alessan55125583
-
-Sabemos que somos de Deus e que o mundo todo está sob o poder do Maligno. 1 João 5:19 Buscando respostas em um mundo cheio de mentiras. #BolsonaroAte2026 🇧🇷🌴
-
-Lemmas in this profile that loaded on the factor:
-
-cheio
-mentira
-saber
-
----------------
-# 000006
-score = -2
-https://mobile.twitter.com/alvarengaa1989
-
-u002091
-u:alvarengaa1989
-
-Estamos caminhando para o socialismo, um sistema que, como se diz, só funciona no Céu, onde não precisam dele, e no Inferno, onde ele já existe. Ronald Reagan
-
-Lemmas in this profile that loaded on the factor:
-
-dizer
-existir
-precisar
-
----------------
-# 000007
-score = -2
-https://mobile.twitter.com/alvimar_jb
-
-u002138
-u:alvimar_jb
-
-Se você acredita que existe esquerda ou direita no “jogo político”, defende o #lulatapresobabaca ou ainda não entendeu o que está rolando no país, #vazadaqui
-
-Lemmas in this profile that loaded on the factor:
-
-entender
-existir
-
----------------
-# 000008
+# 000018
 score = -2
 https://mobile.twitter.com/anderso60612184
 
@@ -124,7 +286,7 @@ bastar
 mentira
 
 ---------------
-# 000009
+# 000019
 score = -2
 https://mobile.twitter.com/anderson79_srn
 
@@ -140,169 +302,17 @@ falar
 responsável
 
 ---------------
-# 000010
-score = -2
-https://mobile.twitter.com/arqlimajunior1
-
-u003683
-u:arqlimajunior1
-
-Brasileiro, de saco cheio de político esquerdista, de esquerdista, de tudo que é canhoto... nem digito com a mão esquerda.
-
-Lemmas in this profile that loaded on the factor:
-
-cheio
-mão
-
----------------
-# 000011
-score = -2
-https://mobile.twitter.com/ascaniobh
-
-u003761
-u:ascaniobh
-
-mineiro uai! yaphh!....xonado pela vida! de saco cheio de mimi.... buscando entender o mundo ao avesso!
-
-Lemmas in this profile that loaded on the factor:
-
-cheio
-entender
-
----------------
-# 000012
-score = -2
-https://mobile.twitter.com/autoreisdorfer
-
-u003904
-u:autoreisdorfer
-
-Jamais gaste seu tempo dando explicações sobre seus tweets. Seus amigos não precisam. Seus inimigos não acreditam. Os estúpidos não entendem.
-
-Lemmas in this profile that loaded on the factor:
-
-entender
-precisar
-
----------------
-# 000013
-score = -2
-https://mobile.twitter.com/avelinofranci18
-
-u003923
-u:avelinofranci18
-
-A mentira não tem pernas, ela precisa de uma mula para ser carregada.
-
-Lemmas in this profile that loaded on the factor:
-
-mentira
-precisar
-
----------------
-# 000014
-score = -2
-https://mobile.twitter.com/barbosa_petrus
-
-u004083
-u:barbosa_petrus
-
-“Aqueles que abrem mão da liberdade essencial por um pouco de segurança temporária não merecem nem liberdade nem segurança”. Benjamin Franklin @flamengo
-
-Lemmas in this profile that loaded on the factor:
-
-merecer
-mão
-
----------------
-# 000015
-score = -2
-https://mobile.twitter.com/bastos_vivianne
-
-u004156
-u:bastos_vivianne
-
-Mesmo nos dias difíceis temos que manter o sorriso no rosto, a fé inabalável e o coração cheio da presença de Jesus!
-
-Lemmas in this profile that loaded on the factor:
-
-cheio
-difícil
-
----------------
-# 000016
-score = -2
-https://mobile.twitter.com/benaglianaida
-
-u004294
-u:benaglianaida
-
-“Para essa escória,os socialistas e comunistas,dinheiro bom é aquele usado como ferramenta de SUBMISSÃO e não da LIBERDADE.”
-
-Lemmas in this profile that loaded on the factor:
-
-dinheiro
-usar
-
----------------
-# 000017
-score = -2
-https://mobile.twitter.com/botecoterapia
-
-u004818
-u:botecoterapia
-
-Terapeuta responsável pelo botecoterapia!\r No mundo há 10 tipos de pessoas: as que entendem binário e as que não.
-
-Lemmas in this profile that loaded on the factor:
-
-entender
-responsável
-
----------------
-# 000018
-score = -2
-https://mobile.twitter.com/brucattdri
-
-u005078
-u:brucattdri
-
-Despretensiosa porém cheia de opinião. Precisa porém, sem arrogância 🌻
-
-Lemmas in this profile that loaded on the factor:
-
-cheio
-opinião
-precisar
-
----------------
-# 000019
-score = -2
-https://mobile.twitter.com/carlacasaes3
-
-u005752
-u:carlacasaes3
-
-Deus, família, pátria!! Desistir não é uma opção!! Sou responsável pelo que falo, não pelo que vc entende! 🚫Sem listas de SDV🚫
-
-Lemmas in this profile that loaded on the factor:
-
-entender
-falar
-responsável
-
----------------
 # 000020
 score = -2
-https://mobile.twitter.com/carlosaa2018
+https://mobile.twitter.com/angelaguimarae1
 
-u005861
-u:carlosaa2018
+u003056
+u:angelaguimarae1
 
-O Brasil não terá futuro nas mãos de um psicopata mentiroso; Políticos precisam ser cobrados, não idolatrados.
+Se você acha que educação é cara, experimente a ignorância\" (Derek Bok). Advogada Palestrante Nerd Amante do direito Tributário 
 
 Lemmas in this profile that loaded on the factor:
 
-mão
-precisar
+achar
+ignorância
 

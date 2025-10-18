@@ -1,349 +1,390 @@
 ---------------
 # 000001
-score = 6
-https://mobile.twitter.com/alexandresalema
+score = 8
+https://mobile.twitter.com/rose_saboleski
 
-u001697
-u:alexandresalema
+u030817
+u:rose_saboleski
 
-Executivo e empresário com foco em novos negócios e inovação. Sou a favor de um estado mínimo com foco principal em saúde, segurança e educação. Livre mercado!
+DEUS ACIMA DE TUDO🙏🏽 tutora de onze filhos de quatro🐾🐾🐶🥰amo minha família... SDV sempre...esquerda e perfil fechado não.. direita sempre 🇧🇷💚💛💙🍀🌻🌼
 
 Lemmas in this profile that loaded on the factor:
 
-educação
-estado
-foco
-livre
-mercado
-negócio
-pequeno
+blossom_e
+blue_heart_e
+dog_face_e
+flag_brazil_e
+green_heart_e
+paw_prints_e
+sunflower_e
+yellow_heart_e
 
 ---------------
 # 000002
-score = 5
-https://mobile.twitter.com/whellington
+score = 8
+https://mobile.twitter.com/paulakah6
 
-u035882
-u:whellington
+u027243
+u:paulakah6
 
-Administrador de sistemas e empreendedor, conservador nos costumes, liberal na economia, defensor do estado mínimo, armamentista e contra o aborto.
+🇧🇷💯% Deus, Pátria, Família e Liberdade💚💛💙🤍🙏 A VERDADE SEMPRE PREVALECERÁ! 🇧🇷 🤜🇧🇷🤛
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-estado
-liberal
-pequeno
-sistema
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+left_facing_fist_e
+right_facing_fist_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000003
-score = 5
-https://mobile.twitter.com/costa_10_73
+score = 7
+https://mobile.twitter.com/tania_andreucci
 
-u007535
-u:costa_10_73
+u033253
+u:tania_andreucci
 
-Imbroxavel, Conservador/Libertário. Pró: Liberdade de expressão, Armas, propriedade privada, livre mercado. Anti: Feminismo, Esquerdo-progressismo-Woke!
+Ou viver à Pátria Livre ou Morrer pelo Brasil 💚💛💙🇧🇷🇧🇷😎🙌🙏
 
 Lemmas in this profile that loaded on the factor:
 
-expressão
-libertário
-livre
-mercado
-privado
-propriedade
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+raising_hands_e
+smiling_face_with_sunglasses_e
+yellow_heart_e
 
 ---------------
 # 000004
-score = 4
-https://mobile.twitter.com/xandaosouzza
+score = 7
+https://mobile.twitter.com/rcoloradaco
 
-u036143
-u:xandaosouzza
+u029014
+u:rcoloradaco
 
-Formado em Gestão pública e, pós Graduado em ciências políticas. Gerente de emprego e renda no SINE, e suplente de vereador na cidade de São José SC.
+#DireitaSEGUEDireita / Sou e SEMPRE serei @jairbolsonaro até o FIM!. 🇧🇷🇧🇷🔰💚💛💙 RIO GRANDE DO SUL 💚♥️💛 @SCInternacional ❤️🤍
 
 Lemmas in this profile that loaded on the factor:
 
-ciência
-formar
-político
-público
+blue_heart_e
+direitaseguedireita_h
+flag_brazil_e
+green_heart_e
+red_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000005
-score = 4
-https://mobile.twitter.com/tinocofra
+score = 7
+https://mobile.twitter.com/flviacoutinho17
 
-u034011
-u:tinocofra
+u013207
+u:flviacoutinho17
 
-Natural do Rio, cientista político. Liberal na economia e no social. Fraternidade como certeza, liberdade como ideal e igualdade como evolução.
+Patriota 💚 Casada e mãe de 4 filhos ❤ 🇧🇷🇱🇷🇮🇱 e muito abençoada por Deus 🙌🌻💛💚
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-liberal
-político
-social
+flag_brazil_e
+flag_liberia_e
+green_heart_e
+raising_hands_e
+red_heart_e
+sunflower_e
+yellow_heart_e
 
 ---------------
 # 000006
-score = 4
-https://mobile.twitter.com/prgeorgesifv
+score = 7
+https://mobile.twitter.com/criseshana
 
-u028221
-u:prgeorgesifv
+u007673
+u:criseshana
 
-Sou abençoado !! !avaliador automotivo! casado a 24 anos pai de 3 filhos, liberal contemporâneo, formado em economia, bacharel em relações públicas.
+Não sou robô!! Trabalho de graça por um Brasil decente com Bolsonaro!! 🇧🇷💚💛🇧🇷 SDV todos de direita!! Sou Tricolor... SPFC ❤️🤍🖤
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-formar
-liberal
-público
+black_heart_e
+flag_brazil_e
+graça
+green_heart_e
+red_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000007
-score = 4
-https://mobile.twitter.com/lobaorj
+score = 7
+https://mobile.twitter.com/alinetn75
 
-u020512
-u:lobaorj
+u001923
+u:alinetn75
 
-Formado em segurança pública e privada. Graduação em Ciências criminais. Bolsonarista,armamentista. CAC. Deus pátria e família. 🇧🇷🇺🇸🇮🇱
+Anticomunista, antisocialista e antiglobalista!🇧🇷🇵🇹😎💚💛💙🤍💚❤️
 
 Lemmas in this profile that loaded on the factor:
 
-ciência
-formar
-privado
-público
+blue_heart_e
+flag_brazil_e
+green_heart_e
+red_heart_e
+smiling_face_with_sunglasses_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000008
-score = 4
-https://mobile.twitter.com/jordangaell
+score = 6
+https://mobile.twitter.com/thaisprr86
 
-u017659
-u:jordangaell
+u033580
+u:thaisprr86
 
-Eu sou o Conservadorismo Pulsante, conservador nos costumes e liberal na economia, defendo os direitos à liberdade e à propriedade privada. #BolsonaroAte2026
+Jesus o plano perfeito 🎵❤🙏 Carioca, Conservadora e Direita 🇧🇷💚💛
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-liberal
-privado
-propriedade
+flag_brazil_e
+folded_hands_e
+green_heart_e
+musical_note_e
+red_heart_e
+yellow_heart_e
 
 ---------------
 # 000009
-score = 4
-https://mobile.twitter.com/henriquehenbal
+score = 6
+https://mobile.twitter.com/rubensclemente
 
-u015366
-u:henriquehenbal
+u031091
+u:rubensclemente
 
-Engenheiro, trabalhei 36 anos na indústria privada. Sou conservador e de direita, acredito na LIBERDADE de todos, num Estado mínimo e numa economia de mercado.
+🎵🎶🎹Sincero, claro e objetivo🎹🎙️🎸. Valorizo quem me valoriza. ❤️Deus❤️ , família, Palmeiras💚 Amigos (as) 🇧🇷DIREITA 🇧🇷 🚫Esquerda-Lulista🚫
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-estado
-mercado
-pequeno
-privado
-trabalhar
+flag_brazil_e
+green_heart_e
+guitar_e
+musical_note_e
+musical_notes_e
+red_heart_e
 
 ---------------
 # 000010
-score = 4
-https://mobile.twitter.com/hansen_vitor
+score = 6
+https://mobile.twitter.com/renatavec
 
-u015110
-u:hansen_vitor
+u029381
+u:renatavec
 
-Formado em educação física e economia. Conservador, armamentista e a favor do voto impresso.
+Bolsonaro22! 🇧🇷🇧🇷🇧🇷 Só o Bem faz o Bem , a Vitória é sempre da Luz ! 💚💛💙🤍💚🇧🇷Eu Sou quem Eu Sou. 💗🇧🇷💚💛💙🤍🌼
 
 Lemmas in this profile that loaded on the factor:
 
-economia
-educação
-formar
-físico
-voto
+blossom_e
+blue_heart_e
+flag_brazil_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000011
-score = 4
-https://mobile.twitter.com/ferreiranews2
+score = 6
+https://mobile.twitter.com/princes38118329
 
-u012867
-u:ferreiranews2
+u028249
+u:princes38118329
 
-Notícia livre de apego político! Educação em Foco!
+Deus tem estrada, onde o Mundo não tem caminhos!🙏💗🇧🇷💚💛💙🤍
 
 Lemmas in this profile that loaded on the factor:
 
-educação
-foco
-livre
-político
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000012
-score = 4
-https://mobile.twitter.com/evandro_bv
+score = 6
+https://mobile.twitter.com/monicavilela13
 
-u011766
-u:evandro_bv
+u024999
+u:monicavilela13
 
-\"A vida é ETERNA pra quem tem FÉ\"... Liberdade religiosa e de expressão, legitima defesa, direito a propriedade privada, não ao aborto, liberdade econômica...
+Sou Brasileira 🇧🇷, Cristã!🙏Quero o melhor para o meu país hoje e sempre!💛💚🤍💙 Sobretudo sou Patriota 🇧🇷🙏🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-defesa
-expressão
-privado
-propriedade
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000013
-score = 4
-https://mobile.twitter.com/dudaduduedu
+score = 6
+https://mobile.twitter.com/millanaay
 
-u009922
-u:dudaduduedu
+u024619
+u:millanaay
 
-A favor do direito à livre defesa da vida, da liberdade de expressão e da propriedade. Contra o Aborto.
+Patriota 🇧🇷🇧🇷🇧🇷 Cristã 🙏 Conservadora de direita 🇧🇷 Deus, Patria, Família e Liberdade 💚💛💙🤍
 
 Lemmas in this profile that loaded on the factor:
 
-defesa
-expressão
-livre
-propriedade
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000014
-score = 4
-https://mobile.twitter.com/aragao130181
+score = 6
+https://mobile.twitter.com/mary1307611
 
-u003526
-u:aragao130181
+u023738
+u:mary1307611
 
-Gastrólogo, formado em Educação Física, pai de Lelê, casado. Lugar de político ladrão e bandido é na prisão.BOLSONARO até 2026. 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+Artesã e patriota 🇧🇷💚💛💙🤍🙏
 
 Lemmas in this profile that loaded on the factor:
 
-educação
-formar
-político
-prisão
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000015
-score = 4
-https://mobile.twitter.com/albertosilvabr
+score = 6
+https://mobile.twitter.com/marconisantos17
 
-u001328
-u:albertosilvabr
+u022738
+u:marconisantos17
 
-Mestre em Semiótica, Comunicador, professor e coordenador educacional. Especialista em comunicação, educação a distância, ciências sociais e história da arte.
+Patriota direita juntos por um Brasil melhor!🇧🇷🇧🇷🇧🇷💚💛💙💪💪💪 De: João Pessoa PB 🙏🙏🙏❤❤❤ Bolsonaro presidente 2022.🇧🇷🇧🇷🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-ciência
-educação
-especialista
-social
+blue_heart_e
+flag_brazil_e
+folded_hands_e
+green_heart_e
+red_heart_e
+yellow_heart_e
 
 ---------------
 # 000016
-score = 3
-https://mobile.twitter.com/willianhanders1
+score = 6
+https://mobile.twitter.com/marcelodiskcap
 
-u035976
-u:willianhanders1
+u022286
+u:marcelodiskcap
 
-Sou cristão, conservador nos costumes e liberal na economia. Administrador público, Analista Comportamental e Produtor Eventos . Eleitor de Bolsonaro!
+pai do Marcelo e Thiago 😍❤️🇧🇷💪🤜🤛🙏🙌🤖
 
 Lemmas in this profile that loaded on the factor:
 
-analista
-economia
-liberal
-público
+flag_brazil_e
+folded_hands_e
+left_facing_fist_e
+raising_hands_e
+red_heart_e
+right_facing_fist_e
 
 ---------------
 # 000017
-score = 3
-https://mobile.twitter.com/tunofernando
+score = 6
+https://mobile.twitter.com/marcellemorei16
 
-u034293
-u:tunofernando
+u022163
+u:marcellemorei16
 
-Marketing Digital, design, música, cinema, literatura, motociclismo! A favor de um Estado menor, Liberalismo Econômico e uma Educação sem ideologia! 😎👉
+Estudante de direito 10/10, casada Mãe ♥️ #Ele sim # Presidente Bolsonaro 22🇧🇷🇧🇷😎👉 SDV #Direitaunida Flamenguista❤️🖤❤️🖤
 
 Lemmas in this profile that loaded on the factor:
 
-estado
-ideologia
-marketing
-pequeno
+backhand_index_pointing_right_e
+black_heart_e
+direitaunida_h
+flag_brazil_e
+red_heart_e
+smiling_face_with_sunglasses_e
 
 ---------------
 # 000018
-score = 3
-https://mobile.twitter.com/trovoescabral
+score = 6
+https://mobile.twitter.com/mamorerachel
 
-u034238
-u:trovoescabral
+u021952
+u:mamorerachel
 
-Analista de sistemas e advogada. Deus, Família, Pátria, Liberdade e Trabalho! Conservadora nos costumes e liberal na economia. Bolsonaro de cabeça e coração.
+caRIOca em SC ☀️🌊 Patriota 🇧🇷 🇧🇷2️⃣2️⃣🇧🇷 Bolsonarista 💚💛💙 Crux sacra sit mihi lux
 
 Lemmas in this profile that loaded on the factor:
 
-advogado
-analista
-economia
-liberal
-sistema
+blue_heart_e
+flag_brazil_e
+green_heart_e
+keycap_2_e
+sun_e
+water_wave_e
+yellow_heart_e
 
 ---------------
 # 000019
-score = 3
-https://mobile.twitter.com/thalesam1
+score = 6
+https://mobile.twitter.com/luzmari68773235
 
-u033589
-u:thalesam1
+u021572
+u:luzmari68773235
 
-Brasileiro, cristão, conservador, apoia o livre mercado e estado mínimo.
+Mulher FEMININA Retada💃 DIREITA Patriota Conservadora🇧🇷 E Brado aos 4 cantos: Minha Bandeira Jamais Será Vermelha 🇧🇷💚💛💙🤍#Bolsonarista até o Fim!
 
 Lemmas in this profile that loaded on the factor:
 
-estado
-livre
-mercado
-pequeno
+blue_heart_e
+feminino
+flag_brazil_e
+green_heart_e
+white_heart_e
+yellow_heart_e
 
 ---------------
 # 000020
-score = 3
-https://mobile.twitter.com/souza_wesley62
+score = 6
+https://mobile.twitter.com/lucianorodri2
 
-u032791
-u:souza_wesley62
+u021001
+u:lucianorodri2
 
-Ex-líder estudantil 2015/2019, comentarista social e aspirante a político; 22 anos, técnico em administração, logística e marketing pessoal.
+Santista Roxo 🐋💨🐳💨 📌Casado🎇 Gráfico 📒📰📑📘 Espírita ⚓ Rádio 📢🎧🎤🎵🎶 😎👊 #Bolsonaro2022 #DireitaUnida ....😎👉 #DireitaSegueDireita....😎👉👉
 
 Lemmas in this profile that loaded on the factor:
 
-marketing
-político
-social
+backhand_index_pointing_right_e
+direitaseguedireita_h
+direitaunida_h
+musical_note_e
+musical_notes_e
+smiling_face_with_sunglasses_e
 

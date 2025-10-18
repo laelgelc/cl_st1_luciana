@@ -892,6 +892,3 @@ rc = filename(fname, quote(cats("&path",'/',memname)));
 rc = fdelete(fname);
 rc = filename(fname);
 run;
-
-
-

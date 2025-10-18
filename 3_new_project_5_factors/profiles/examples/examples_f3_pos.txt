@@ -1,6 +1,6 @@
 ---------------
 # 000001
-score = 9
+score = 10
 https://mobile.twitter.com/michaelipb
 
 u024461
@@ -24,6 +24,92 @@ teologia
 
 ---------------
 # 000002
+score = 8
+https://mobile.twitter.com/rayfaleiro
+
+u028961
+u:rayfaleiro
+
+Brasileiro patriota nacionalista, cristão de direita conservador nos costumes e liberal na economia, armamentista, pai e marido!
+
+Lemmas in this profile that loaded on the factor:
+
+armamentista
+brasileiro
+conservador
+costume
+cristão
+economia
+liberal
+marido
+pai
+
+---------------
+# 000003
+score = 8
+https://mobile.twitter.com/jonas_cassian
+
+u017533
+u:jonas_cassian
+
+Patriota,Bolsonarista,conservador,casado,pai,filho e servo do Deus altíssimo , um Deus , que por mim tudo executa.🇧🇷🇮🇱🇺🇸
+
+Lemmas in this profile that loaded on the factor:
+
+alto
+casado
+conservador
+filho
+flag_israel_e
+flag_united_states_e
+pai
+servo
+
+---------------
+# 000004
+score = 8
+https://mobile.twitter.com/andre74miranda
+
+u002764
+u:andre74miranda
+
+Casado, Católico, Pai, Avô, Conservador e Liberal. Deus, Família e Pátria
+
+Lemmas in this profile that loaded on the factor:
+
+avô
+casado
+católico
+conservador
+família
+liberal
+pai
+pátria
+
+---------------
+# 000005
+score = 7
+https://mobile.twitter.com/trovoescabral
+
+u034238
+u:trovoescabral
+
+Analista de sistemas e advogada. Deus, Família, Pátria, Liberdade e Trabalho! Conservadora nos costumes e liberal na economia. Bolsonaro de cabeça e coração.
+
+Lemmas in this profile that loaded on the factor:
+
+advogado
+analista
+bolsonaro
+conservador
+costume
+economia
+família
+liberal
+pátria
+
+---------------
+# 000006
 score = 7
 https://mobile.twitter.com/suzyannet
 
@@ -42,32 +128,73 @@ economia
 esposo
 liberal
 mãe
-patriota
 
 ---------------
-# 000003
+# 000007
 score = 7
-https://mobile.twitter.com/rayfaleiro
+https://mobile.twitter.com/raquels40595372
 
-u028961
-u:rayfaleiro
+u028929
+u:raquels40595372
 
-Brasileiro patriota nacionalista, cristão de direita conservador nos costumes e liberal na economia, armamentista, pai e marido!
+Mãe E solteira ,cristã Católica Apostólica Romana, servidora pública, armamentista, conservadora nos costumes e liberal na economia
 
 Lemmas in this profile that loaded on the factor:
 
 armamentista
+católico
 conservador
 costume
 cristão
 economia
 liberal
-marido
-pai
-patriota
+mãe
+público
 
 ---------------
-# 000004
+# 000008
+score = 7
+https://mobile.twitter.com/prnatanael
+
+u028316
+u:prnatanael
+
+Ministro do Evangelho, marido,pai,avô, admin.Empresas, consultor, conferencista, Conservador, Direita c/Bolsonaro.🇧🇷🇧🇷🇧🇷🇮🇱🇮🇱🇮🇱
+
+Lemmas in this profile that loaded on the factor:
+
+avô
+conservador
+consultor
+empresa
+flag_israel_e
+marido
+pai
+
+---------------
+# 000009
+score = 7
+https://mobile.twitter.com/prgeorgesifv
+
+u028221
+u:prgeorgesifv
+
+Sou abençoado !! !avaliador automotivo! casado a 24 anos pai de 3 filhos, liberal contemporâneo, formado em economia, bacharel em relações públicas.
+
+Lemmas in this profile that loaded on the factor:
+
+ano
+bacharel
+casar
+economia
+filho
+formar
+liberal
+pai
+público
+
+---------------
+# 000010
 score = 7
 https://mobile.twitter.com/pr_joserafael
 
@@ -87,27 +214,27 @@ pastor
 teologia
 
 ---------------
-# 000005
+# 000011
 score = 7
-https://mobile.twitter.com/jonas_cassian
+https://mobile.twitter.com/joabgymcacique
 
-u017533
-u:jonas_cassian
+u017221
+u:joabgymcacique
 
-Patriota,Bolsonarista,conservador,casado,pai,filho e servo do Deus altíssimo , um Deus , que por mim tudo executa.🇧🇷🇮🇱🇺🇸
+brasileiro casado pai avô! Deus, pátria, família DIREITA CONSERVADOR!🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-alto
+avô
+brasileiro
 casado
 conservador
-filho
+família
 pai
-patriota
-servo
+pátria
 
 ---------------
-# 000006
+# 000012
 score = 7
 https://mobile.twitter.com/henriquecorrar2
 
@@ -126,10 +253,50 @@ engenheiro
 liberal
 marido
 pai
-patriota
 
 ---------------
-# 000007
+# 000013
+score = 7
+https://mobile.twitter.com/gilsonbifano
+
+u014277
+u:gilsonbifano
+
+Esposo, pai, sogro e avô. Botafoguense. Engajado na luta contra o socialismo. Conservador nos costumes e liberal na economia. Cidadão ítalo-brasileiro 🇧🇷🇮🇹
+
+Lemmas in this profile that loaded on the factor:
+
+avô
+brasileiro
+conservador
+costume
+economia
+esposo
+liberal
+pai
+
+---------------
+# 000014
+score = 7
+https://mobile.twitter.com/fernandougo2
+
+u012836
+u:fernandougo2
+
+Casado com a Li, pai da Lu e do Ne, amo minha família. Cristão e conservador🇧🇷🇮🇱🇺🇸 JESUS É O CAMINHO, A VERDADE E A VIDA.
+
+Lemmas in this profile that loaded on the factor:
+
+casar
+conservador
+cristão
+família
+flag_israel_e
+flag_united_states_e
+pai
+
+---------------
+# 000015
 score = 7
 https://mobile.twitter.com/evandromarinho2
 
@@ -149,250 +316,104 @@ pai
 servo
 
 ---------------
-# 000008
-score = 6
-https://mobile.twitter.com/valferr67067309
-
-u034616
-u:valferr67067309
-
-mulher casada trabalhadora dona de casa filha mãe . patriota conservadora 💚🙌🇧🇷🙌 temente a Deus 🙌
-
-Lemmas in this profile that loaded on the factor:
-
-casado
-conservador
-dono
-filho
-mãe
-patriota
-
----------------
-# 000009
-score = 6
-https://mobile.twitter.com/tsuka68
-
-u034252
-u:tsuka68
-
-Cristão conservador, pai de um casal de filhos, marido de uma esposa amorosa e de direita.
-
-Lemmas in this profile that loaded on the factor:
-
-conservador
-cristão
-esposo
-filho
-marido
-pai
-
----------------
-# 000010
-score = 6
-https://mobile.twitter.com/tifa7x
-
-u033980
-u:tifa7x
-
-29 anos, mãe, casada, animes/mangás, gamer girl, de Direita Conservadora, cristã, patriota e militar 🇧🇷
-
-Lemmas in this profile that loaded on the factor:
-
-ano
-casado
-conservador
-cristão
-mãe
-patriota
-
----------------
-# 000011
-score = 6
-https://mobile.twitter.com/stefani_osmar
-
-u032928
-u:stefani_osmar
-
-Casado, Gestor de Projetos, filho Analista de Sistemas, filha Advogada, Esposa professora. Amo meu PAÍS e na qualidade de vida que pode proporcionar ao seus.
-
-Lemmas in this profile that loaded on the factor:
-
-advogado
-analista
-casado
-esposo
-filho
-professora
-
----------------
-# 000012
-score = 6
-https://mobile.twitter.com/sniperreginaldo
-
-u032514
-u:sniperreginaldo
-
-Servo do SENHOR JESUS , filho , marido e pai. Patriota Conservador, reservista EB QM 07/01 55 BI. EV.CPL União dos Capelães Evangélicos do Brasil desde 2013
-
-Lemmas in this profile that loaded on the factor:
-
-conservador
-filho
-marido
-pai
-patriota
-servo
-
----------------
-# 000013
-score = 6
-https://mobile.twitter.com/sergioc77903736
-
-u031879
-u:sergioc77903736
-
-Sou representante comercial,casado a 40 anos com a RO ,cristão (IURD)e pai da Ana Kelly e sogro de Juliano e sou filho de uma grande mulher minha mãe Ilça Costa
-
-Lemmas in this profile that loaded on the factor:
-
-ano
-casado
-cristão
-filho
-mãe
-pai
-
----------------
-# 000014
-score = 6
-https://mobile.twitter.com/ruypires
-
-u031164
-u:ruypires
-
-Pai, esposo, cristão e patriota. Conservador nos costumes e capotando em assuntos econômicos...
-
-Lemmas in this profile that loaded on the factor:
-
-conservador
-costume
-cristão
-esposo
-pai
-patriota
-
----------------
-# 000015
-score = 6
-https://mobile.twitter.com/realcrestani
-
-u029056
-u:realcrestani
-
-Filho, irmão, pai, esposo, patriota, empreendedor, cristão, conservador e AntiComunista!
-
-Lemmas in this profile that loaded on the factor:
-
-conservador
-cristão
-esposo
-filho
-pai
-patriota
-
----------------
 # 000016
-score = 6
-https://mobile.twitter.com/raimund26062589
+score = 7
+https://mobile.twitter.com/bolsomessiasjr
 
-u028777
-u:raimund26062589
+u004700
+u:bolsomessiasjr
 
-Geógrafo, casado com a Leiliane e Pai da Lara (Menina) e Levi(Menino), futuros Mãe e Pai de filhos homens e filhas mulheres , Cristão, Conservador e Patriota!
+Brasileiro 🇧🇷 Casado 👫❤️ Cristão 🙏🏽🇮🇱 Patriota/Conservador 🇧🇷🇺🇸🇮🇱 Da Família Tradicional 👨‍👩‍👧 Armamentista Robô com CPF Contra o Aborto 100% JB
 
 Lemmas in this profile that loaded on the factor:
 
-casar
+armamentista
+brasileiro
+casado
 conservador
-filho
-mãe
-pai
-patriota
+família
+flag_israel_e
+flag_united_states_e
 
 ---------------
 # 000017
-score = 6
-https://mobile.twitter.com/prof_robsonoliv
+score = 7
+https://mobile.twitter.com/ataidepalma
 
-u028334
-u:prof_robsonoliv
+u003809
+u:ataidepalma
 
-Cristão, esposo e pai de 3 filhos. Escritor e analista político. Crie uma úlcera no movimento negro, dê moral a um preto conservador. Siga-me no Telegram!
+Esposo da Lisa, pai do Emanuel e da Laura, cristão conservador, bacharel em Teologia, liberal na economia, péssimo músico e apenas de passagem por este mundo
 
 Lemmas in this profile that loaded on the factor:
 
-analista
+bacharel
 conservador
-escritor
+cristão
+economia
 esposo
-filho
+liberal
+músico
 pai
+teologia
 
 ---------------
 # 000018
-score = 6
-https://mobile.twitter.com/pimenta_israel
+score = 7
+https://mobile.twitter.com/antoniolima_20
 
-u027909
-u:pimenta_israel
+u003400
+u:antoniolima_20
 
-Servo do Deus Altíssimo, Patriota, Conservador, Pai e Esposo! E a partir de hoje 1 de janeiro, começo a Campanha Bolsonaro Presidente Modo Turbo!!
+Católico, conservador. Homem de família, 2 filhos, 1 neta. Economista, cristão atuante na Igreja, Consultor Empresarial.
 
 Lemmas in this profile that loaded on the factor:
 
-alto
+católico
 conservador
-esposo
-pai
-patriota
-servo
+consultor
+cristão
+família
+filho
+neto
 
 ---------------
 # 000019
-score = 6
-https://mobile.twitter.com/paulusulisses
+score = 7
+https://mobile.twitter.com/almirguimaraes5
 
-u027550
-u:paulusulisses
+u002024
+u:almirguimaraes5
 
-Cristão reformado, marido, pai, pastor, escritor, estudante de teologia, amante das artes clássicas.
+Sou cristão (batista), conservador, flamenguista, pai, esposo, avô e filho!!! Brasileiro apaixonado pelo o Brasil, anti-corrupção e anti-esquerda!!!
 
 Lemmas in this profile that loaded on the factor:
 
+apaixonar
+avô
+brasileiro
+conservador
 cristão
-escritor
-estudante
-marido
+esposo
+filho
 pai
-pastor
-teologia
 
 ---------------
 # 000020
 score = 6
-https://mobile.twitter.com/netoermindo
+https://mobile.twitter.com/waldineeyo
 
-u025859
-u:netoermindo
+u035554
+u:waldineeyo
 
-Patriota, cristão, conservador, antidrogas, militar da reserva. Por um Brasil melhor para a esposa,meus filhos, nora, genro, netos e toda a família e amigos!!
+Cristão Católico, Conservador de Direita, Patriota, Totalmente Família. Brasil acima de Tudo e DEUS acima de Todos.🇧🇷 🇮🇱 🇺🇸 🇹🇯
 
 Lemmas in this profile that loaded on the factor:
 
+católico
 conservador
 cristão
-esposo
-filho
-neto
-patriota
+família
+flag_israel_e
+flag_united_states_e
 

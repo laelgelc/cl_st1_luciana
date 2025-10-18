@@ -1,332 +1,346 @@
 ---------------
 # 000001
-score = -3
-https://mobile.twitter.com/beeapgarcia
+score = -6
+https://mobile.twitter.com/alexandresalema
 
-u004234
-u:beeapgarcia
+u001697
+u:alexandresalema
 
-Brasileira 🇧🇷💚💛 Nail Designer e Manicure 💅 Casada , mãe de 3 💙💙💙 Cristã, sirvo a um Deus vivo, que nada fica em oculto aos olhos dele 🙏🏼🕊️
+Executivo e empresário com foco em novos negócios e inovação. Sou a favor de um estado mínimo com foco principal em saúde, segurança e educação. Livre mercado!
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-olho
-yellow_heart_e
+educação
+estado
+foco
+mercado
+negócio
+pequeno
+segurança
 
 ---------------
 # 000002
-score = -3
-https://mobile.twitter.com/caldascohen
+score = -5
+https://mobile.twitter.com/alita_falcao
 
-u005491
-u:caldascohen
+u001949
+u:alita_falcao
 
-ESTOU NA CONTA SUBSTITUTA ATE O PÁSSARO AZUL DEVOLVER A MINHA VELHA CONTA. TEMPOS DIFÍCEIS TUDO QUE SE FALA É MOTIVO DE BLOCK. BLOCK POR UMA SEMANA EU ACHO.
+Assessora de imprensa com experiência em política e serviço público. Redatora de texto para marketing e publicidade com foco nas novas mídias.
 
 Lemmas in this profile that loaded on the factor:
 
-achar
-azul
-tempo
+foco
+marketing
+política
+público
+serviço
 
 ---------------
 # 000003
-score = -3
-https://mobile.twitter.com/deborahlay_
+score = -5
+https://mobile.twitter.com/edengrei
 
-u008635
-u:deborahlay_
+u010100
+u:edengrei
 
-Dona de casa , esposa de escritor, católica, cavando onde estou.Professora,atriz,ceramista e neófita de filosofia.Quero o melhor para meu lindo país.🇧🇷💚💛💙
+graduado em filosofia, mestre em filosofia da ciência pela UFSC. Professor do estado do MT. autor da rede social filosófica Dialeticos https://t.co/Lwprdo0Jbn
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-casa
-green_heart_e
-yellow_heart_e
+ciência
+estado
+filosofia
+professor
+rede
+social
 
 ---------------
 # 000004
-score = -3
-https://mobile.twitter.com/khamo1025
+score = -4
+https://mobile.twitter.com/albertosilvabr
 
-u019041
-u:khamo1025
+u001328
+u:albertosilvabr
 
-Cristã e patriota 👉🇧🇷💚💛 Não perco meu tempo com esquerdista, block. Ñ uso máscara, ñ fico em casa, ñ vou tomar vacina e novo normal é o c...
+Mestre em Semiótica, Comunicador, professor e coordenador educacional. Especialista em comunicação, educação a distância, ciências sociais e história da arte.
 
 Lemmas in this profile that loaded on the factor:
 
-backhand_index_pointing_right_e
-casa
-green_heart_e
-tempo
-yellow_heart_e
+ciência
+educação
+especialista
+professor
+social
 
 ---------------
 # 000005
-score = -3
-https://mobile.twitter.com/liviableon
+score = -4
+https://mobile.twitter.com/arnaudmattoso
 
-u020441
-u:liviableon
+u003667
+u:arnaudmattoso
 
-BOLSONARO ATÉ 2026! 🇺🇸🇧🇷 💙❤️💚💛👊🏻Amor e Generosidade. Plantando um futuro lindo para o Brasil! #DireitaSegueDireita 👠💄😍🥰😊
+Jornalista escritor editor distribuidor de música na Vedas edições; especialista em Com. e Marketing Político; atuei como professor por 10 anos; compositor
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-direitaseguedireita_h
-green_heart_e
-yellow_heart_e
+especialista
+jornalista
+marketing
+político
+professor
 
 ---------------
 # 000006
-score = -3
-https://mobile.twitter.com/lizasil12000715
+score = -4
+https://mobile.twitter.com/desicolatto
 
-u020461
-u:lizasil12000715
+u008938
+u:desicolatto
 
-Conservadora de direita🇧🇷💙💚💛Deus 🙏 Família meu tudo 🙌
+Católica, advogada, mestre em economia e especialista em políticas públicas.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-folded_hands_e
-green_heart_e
-raising_hands_e
-yellow_heart_e
+economia
+especialista
+política
+público
 
 ---------------
 # 000007
-score = -3
-https://mobile.twitter.com/lucianafortte
+score = -4
+https://mobile.twitter.com/fabio_bonilha
 
-u020905
-u:lucianafortte
+u012043
+u:fabio_bonilha
 
-#BrasilWasStolen Presente em apoio ao Presidente Bolsonaro. Brasil acima de tudo e Deus acima de todos! 🇧🇷💚💙💛🇧🇷
+Especialista em Segurança da Informação, Arquiteto de Soluções AWS, Especialista em Redes de Computadores
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-presente
-yellow_heart_e
+especialista
+informação
+rede
+segurança
 
 ---------------
 # 000008
-score = -3
-https://mobile.twitter.com/maicontemtem
+score = -4
+https://mobile.twitter.com/ferreiranews2
 
-u021857
-u:maicontemtem
+u012867
+u:ferreiranews2
 
-#direitaseguedireita/Bolsonaro reeleito, e Brasil o país do presente e não mais o país de um futuro que nunca chega!!! Deus-Pátria-Familia !!!
+Notícia livre de apego político! Educação em Foco!
 
 Lemmas in this profile that loaded on the factor:
 
-chegar
-direitaseguedireita_h
-presente
+educação
+foco
+notícia
+político
 
 ---------------
 # 000009
-score = -3
-https://mobile.twitter.com/maraju49138032
+score = -4
+https://mobile.twitter.com/henriquehenbal
 
-u022069
-u:maraju49138032
+u015366
+u:henriquehenbal
 
-🇧🇷💯%Bolsonaro Conservadora de Direita , Patriota, Cristã , Psicopedagoga Super Anticomunista #DireitaSegueDireita #DireitaUnida💚💛💚💛💚💛💚
+Engenheiro, trabalhei 36 anos na indústria privada. Sou conservador e de direita, acredito na LIBERDADE de todos, num Estado mínimo e numa economia de mercado.
 
 Lemmas in this profile that loaded on the factor:
 
-direitaseguedireita_h
-direitaunida_h
-green_heart_e
-yellow_heart_e
+economia
+estado
+mercado
+pequeno
+privado
 
 ---------------
 # 000010
-score = -3
-https://mobile.twitter.com/rcoloradaco
+score = -4
+https://mobile.twitter.com/johnnyburanelo
 
-u029014
-u:rcoloradaco
+u017484
+u:johnnyburanelo
 
-#DireitaSEGUEDireita / Sou e SEMPRE serei @jairbolsonaro até o FIM!. 🇧🇷🇧🇷🔰💚💛💙 RIO GRANDE DO SUL 💚♥️💛 @SCInternacional ❤️🤍
+.'.MESTRE.'. ADVOGADO E EMPREENDEDOR. ESPECIALISTA EM CIÊNCIAS PENAIS, PROCESSO PENAL, SEGURANÇA PÚBLICA, DIREITO DIGITAL,LGPD, EMPRESARIAL, FAMILIAR E MILITAR
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-direitaseguedireita_h
-green_heart_e
-white_heart_e
-yellow_heart_e
+ciência
+especialista
+público
+segurança
 
 ---------------
 # 000011
-score = -3
-https://mobile.twitter.com/tania_andreucci
+score = -4
+https://mobile.twitter.com/neijorge621
 
-u033253
-u:tania_andreucci
+u025739
+u:neijorge621
 
-Ou viver à Pátria Livre ou Morrer pelo Brasil 💚💛💙🇧🇷🇧🇷😎🙌🙏
+Católico - conservador - defende o interesse do cidadão e Estado mínimo - educação, saúde e segurança são direitos fundamentais
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-folded_hands_e
-green_heart_e
-raising_hands_e
-yellow_heart_e
+educação
+estado
+pequeno
+segurança
 
 ---------------
 # 000012
-score = -2
-https://mobile.twitter.com/_ad0nai_
+score = -3
+https://mobile.twitter.com/1joaocavalcanti
 
-u000246
-u:_ad0nai_
+u000082
+u:1joaocavalcanti
 
-⚔️ NÃO RESPONDO DM ⚔️ 🇧🇷 - Radialista - Jornalista 🇧🇷 - Patriota 🇧🇷 💚💛💙
+Téc. em man. de computadores e smartphone Tecnologia, ciência, geopolítica, economia Sou o que sou pelo que nós somos.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-yellow_heart_e
+ciência
+economia
+tecnologia
 
 ---------------
 # 000013
-score = -2
-https://mobile.twitter.com/_annastein
+score = -3
+https://mobile.twitter.com/aquilescavalcan
 
-u000263
-u:_annastein
+u003509
+u:aquilescavalcan
 
-#Patriota Conservadora, Bolsonarista, Católica...✝️🇧🇷 🇮🇱 🇺🇸#DireitaUnida \"E conhecereis a verdade, e a verdade vos libertará\" João 8:32 Gettr: _AnnaStein
+Prof. de Quimica, Casado, Entusiasta em psicanálise, economia, política e ciências da natureza Mestre em Química Humano, demasiadamente humano!
 
 Lemmas in this profile that loaded on the factor:
 
-conhecer
-direitaunida_h
+ciência
+economia
+humano
+política
 
 ---------------
 # 000014
-score = -2
-https://mobile.twitter.com/acaciaguerra_
+score = -3
+https://mobile.twitter.com/aureliafreitas
 
-u000599
-u:acaciaguerra_
+u003881
+u:aureliafreitas
 
-Estudante téc.contabilidade 18 anos amo gatinhos 🐈 e a minha pátria!💚💛💙
+Graduada em Ciência da Computação, PÓS em Segurança da Informação, esposa, cristã, de direita - Meu partido é o Brasil e minha bandeira JAMAIS será vermelha.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-yellow_heart_e
+ciência
+informação
+segurança
 
 ---------------
 # 000015
-score = -2
-https://mobile.twitter.com/adrianamnavas
+score = -3
+https://mobile.twitter.com/barbozalucaas
 
-u000893
-u:adrianamnavas
+u004102
+u:barbozalucaas
 
-🇧🇷 Brasil acima de tudo. Deus acima de todos !!! 🇧🇷😎👉👉🇧🇷 SDV garantido✌️ #DireitaUnida #DireitaSegueDireita #BolsonaroNossoPresidente
+Não sou um jornalista ou analista político, apenas um cara comum que não sabe de nada, mas quer opinar sobre tudo! Estudante de economia e história.
 
 Lemmas in this profile that loaded on the factor:
 
-backhand_index_pointing_right_e
-direitaseguedireita_h
-direitaunida_h
+analista
+cara
+economia
+jornalista
+político
 
 ---------------
 # 000016
-score = -2
-https://mobile.twitter.com/adrikademanaus
+score = -3
+https://mobile.twitter.com/beta_apeixoto
 
-u001011
-u:adrikademanaus
+u004374
+u:beta_apeixoto
 
-Idealista, luto pelo resgate de um Brasil justo e íntegro para as gerações a partir de mim💚💛💙
+Jornalista mãe de 4 👼👧🏻👧🏻👶🏻 Redes sociais, copy, brand e jogo d cintura.🤓Posso t ajudar a ter 1 negócio digital p/ chamar de seu.Pergunte-me como👇🏽
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-yellow_heart_e
+jornalista
+negócio
+rede
+social
 
 ---------------
 # 000017
-score = -2
-https://mobile.twitter.com/alciarodrigue18
+score = -3
+https://mobile.twitter.com/boaventuracelso
 
-u001359
-u:alciarodrigue18
+u004650
+u:boaventuracelso
 
-Casada 💍 Mãe 💙💙💙💙 Conservadora 💪🏻 Destra 💚💛
+Cristão, casado, médico, executivo de saúde, conservador. Defendo o mercado livre e o estado mínimo, sempre tentando manter o bom humor.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-yellow_heart_e
+estado
+mercado
+pequeno
+tentar
 
 ---------------
 # 000018
-score = -2
-https://mobile.twitter.com/alcionedrgr
+score = -3
+https://mobile.twitter.com/boscarino
 
-u001369
-u:alcionedrgr
+u004814
+u:boscarino
 
-💙💚💛Política / Direita Sempre 🇧🇷🇧🇷🇧🇷🇧🇷
+Patriota, conservador e liberal. Acredito na pressão popular pelas redes sociais e manifestações nas ruas para mudar a política.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-yellow_heart_e
+liberal
+política
+rede
+social
 
 ---------------
 # 000019
-score = -2
-https://mobile.twitter.com/alinetn75
+score = -3
+https://mobile.twitter.com/bterbisti
 
-u001923
-u:alinetn75
+u005274
+u:bterbisti
 
-Anticomunista, antisocialista e antiglobalista!🇧🇷🇵🇹😎💚💛💙🤍💚❤️
+Físico, matemático e sempre trabalhando com estatísticas públicas, educação e computação.
 
 Lemmas in this profile that loaded on the factor:
 
-blue_heart_e
-green_heart_e
-white_heart_e
-yellow_heart_e
+educação
+físico
+público
 
 ---------------
 # 000020
-score = -2
-https://mobile.twitter.com/alvriotw
+score = -3
+https://mobile.twitter.com/capelaoragnar
 
-u002144
-u:alvriotw
+u005664
+u:capelaoragnar
 
-Sendo BEM claro.APARTIDÁRIO!Mas com inteligência,pensamento crítico,olhos de ver,ouvidos de ouvir! #TODOSosCORRUPTOSPresos.
+Consultor sênior, capelão, conservador, atleta. Segurança pública,Pós em Filosofia, Teologia Batista, Ciência da Computação e Segurança Digital.
 
 Lemmas in this profile that loaded on the factor:
 
-olho
-ouvir
+ciência
+público
+segurança
 

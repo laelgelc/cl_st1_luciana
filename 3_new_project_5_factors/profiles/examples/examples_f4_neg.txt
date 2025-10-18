@@ -1,307 +1,339 @@
 ---------------
 # 000001
-score = -3
-https://mobile.twitter.com/nadia1monteiro
+score = -5
+https://mobile.twitter.com/joaogbl79
 
-u025426
-u:nadia1monteiro
+u017299
+u:joaogbl79
 
-🙏🏼Orai e Vigiai! “Não Parar, Não Precipitar, Não Retroceder” 🇧🇷🫡 “O Preço da Liberdade é a Eterna Vigilância”♥️👻
+Perfil pessoal.A favor da propriedade privada, família, liberdade religiosa e d'expressão; ordem e justiça. Contra assassinato de bebês e ideologia de gêneros.
 
 Lemmas in this profile that loaded on the factor:
 
-preço
-retroceder
-vigilância
+expressão
+gênero
+ideologia
+privado
+propriedade
 
 ---------------
 # 000002
-score = -3
-https://mobile.twitter.com/vozdobrasiil
+score = -5
+https://mobile.twitter.com/psi_cleissy
 
-u035431
-u:vozdobrasiil
+u028427
+u:psi_cleissy
 
-O preço da liberdade é a eterna vigilância 🇧🇷🇮🇱🇧🇷
+Pró-vida, Pelo direito a legítima defesa, liberdade religiosa e econômica, a propriedade privada e contra ideologia de gênero. DIREITO NATURAL.
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-preço
-vigilância
+defesa
+gênero
+ideologia
+privado
+propriedade
 
 ---------------
 # 000003
-score = -2
-https://mobile.twitter.com/4mey_7
+score = -4
+https://mobile.twitter.com/carlabolsonaro
 
-u000174
-u:4mey_7
+u005750
+u:carlabolsonaro
 
-O preço da liberdade é a eterna vigilância. Freedom is not free! 🐸https://t.co/0PTJtNYXfd
+Sou de direita, Católica, a favor da família, da vida e justiça social.Contra o aborto, ideologia de gênero e corrupção.Compartilho do gabinete do ódio.
 
 Lemmas in this profile that loaded on the factor:
 
-preço
-vigilância
+aborto
+gabinete
+gênero
+ideologia
+ódio
 
 ---------------
 # 000004
-score = -2
-https://mobile.twitter.com/_jota_junior
+score = -4
+https://mobile.twitter.com/evandro_bv
 
-u000344
-u:_jota_junior
+u011766
+u:evandro_bv
 
-🇧🇷🇧🇷🇧🇷👊🏻🐷👍🏻💚 Estratégia pra mim só tem lógica quando a missão tem sentido...Mas quando tem sentido: Missão dada é Missão Cumprida !!!
+\"A vida é ETERNA pra quem tem FÉ\"... Liberdade religiosa e de expressão, legitima defesa, direito a propriedade privada, não ao aborto, liberdade econômica...
 
 Lemmas in this profile that loaded on the factor:
 
-cumprir
-missão
+aborto
+defesa
+expressão
+privado
+propriedade
 
 ---------------
 # 000005
-score = -2
-https://mobile.twitter.com/_tpreto
+score = -4
+https://mobile.twitter.com/paulocesarmade5
 
-u000441
-u:_tpreto
+u027382
+u:paulocesarmade5
 
-Cristão, Conservador, Patriota. 🇧🇷🇮🇱🇺🇲
+Conservador cristão anti comunismo contra ideologia de gênero, pedofilia liberação das Drogas é tudo que não presta que a esquerda apoia
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+droga
+gênero
+ideologia
+prestar
 
 ---------------
 # 000006
-score = -2
-https://mobile.twitter.com/abonett77
+score = -3
+https://mobile.twitter.com/adrianocompute
 
-u000563
-u:abonett77
+u000966
+u:adrianocompute
 
-#Bolsonaro22!🇧🇷 i support president Bolsonaro; Cristão/Casado/Direita; “O preço da Liberdade é a eterna Vigilância” Brasil acima de tudo, Deus acima de todos!
+À favor da moral e dos bons costumes. Capitalista. anti-PT. ant-ideologia de gênero. à favor da família e da liberdade religiosa. Flamengo até morrer!
 
 Lemmas in this profile that loaded on the factor:
 
-preço
-vigilância
+gênero
+ideologia
+pt
 
 ---------------
 # 000007
-score = -2
-https://mobile.twitter.com/alanojesus
+score = -3
+https://mobile.twitter.com/amaedolorenzzo
 
-u001278
-u:alanojesus
+u002182
+u:amaedolorenzzo
 
-✝️🇧🇷🇮🇱🇺🇲 Graduado em RH, com Formação técnica em ADM, Profissional de Depto Pessoal. E 🤖 do 🤡. DEUS, PÁTRIA E FAMÍLIA!!!
+mãe, patriotissima, anti feminista e ativista contra a ideologia de gênero…e #bolsonaro2022 #sóvem
 
 Lemmas in this profile that loaded on the factor:
 
-deus
-flag_israel_e
-flag_u_s_outlying_islands_e
+feminista
+gênero
+ideologia
 
 ---------------
 # 000008
-score = -2
-https://mobile.twitter.com/alexandrealbu35
+score = -3
+https://mobile.twitter.com/antonio81861582
 
-u001655
-u:alexandrealbu35
+u003354
+u:antonio81861582
 
-2 Tenente R/2 - Infantaria - Sub Oficial da Marinha Mercante - Brasil Acima de Tudo - Deus acima de todos 🇧🇷🇺🇲🇮🇱🇬🇧Pró Bolsonaro Até 2026
+gado, robô, extrema-direita, bolsominion, jacobino, vaporwave e MAVs conservador, gabinete do ódio. Se for me xingar coloque a lista completa!
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+colocar
+gabinete
+ódio
 
 ---------------
 # 000009
-score = -2
-https://mobile.twitter.com/amilton_ajunior
+score = -3
+https://mobile.twitter.com/cassivanovski
 
-u002280
-u:amilton_ajunior
+u006189
+u:cassivanovski
 
-#VotoAuditavelJa 🇧🇷🇮🇱🇺🇲ultraconservador🇺🇲🇮🇱🇧🇷
+Defendo meus direitos e princípios,sou contra aborto,ideologia de gênero, drogas,sou cristã,creio em um Brasil melhor.Brasil acima de td e Deus acima de todos.
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+aborto
+droga
+gênero
+ideologia
 
 ---------------
 # 000010
-score = -2
-https://mobile.twitter.com/arthurcristoph1
+score = -3
+https://mobile.twitter.com/cdouniverso
 
-u003714
-u:arthurcristoph1
+u006303
+u:cdouniverso
 
-Engenheiro - Direita ( O preço da liberdade é a eterna vigilância. ) BRASIL ACIMA DE TUDO, DEUS ACIMA DE TODOS. 💚💛 😎👉👉💥💥
+🔫 A favor da posse de armas 🗣 Da liberdade de expressão ✝️ Da liberdade religiosa ✉️ Do voto auditável💰 Do capitalismo não monopolista
 
 Lemmas in this profile that loaded on the factor:
 
-deus
-preço
-vigilância
+auditável
+expressão
+voto
 
 ---------------
 # 000011
-score = -2
-https://mobile.twitter.com/barroscnh
+score = -3
+https://mobile.twitter.com/claudio_custodi
 
-u004131
-u:barroscnh
+u007001
+u:claudio_custodi
 
-HONRA, GLÓRIAS, LOUVORES A DEUS!
+Sou Cristão, Tricolor, Meus amores Tathiane e Saullo Custódio, . #BOLSONARO 2️⃣2️⃣ 🇧🇷 . NÃO IDEOLOGIA DE GÊNERO ABORTO LEGALIZAÇÃO DAS DROGAS #ForaLula
 
 Lemmas in this profile that loaded on the factor:
 
-deus
-glória
-honra
+aborto
+droga
+gênero
+ideologia
 
 ---------------
 # 000012
-score = -2
-https://mobile.twitter.com/bomfimivanete
+score = -3
+https://mobile.twitter.com/costa_10_73
 
-u004762
-u:bomfimivanete
+u007535
+u:costa_10_73
 
-👉👍 🇧🇷🇮🇱🇺🇲👍🇧🇷🇮🇱🇺🇲👍🇧🇷🇮🇱🇺🇲👍 É O POVO QUEM DECIDE O PRESIDENTE DO BRASIL. EU NÃO VOTEI NO LULA PT E NÃO RECONHEÇO COMO PRESIDENTE DO BRASIL.
+Imbroxavel, Conservador/Libertário. Pró: Liberdade de expressão, Armas, propriedade privada, livre mercado. Anti: Feminismo, Esquerdo-progressismo-Woke!
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+expressão
+privado
+propriedade
 
 ---------------
 # 000013
-score = -2
-https://mobile.twitter.com/bonnieximena
+score = -3
+https://mobile.twitter.com/dudaduduedu
 
-u004776
-u:bonnieximena
+u009922
+u:dudaduduedu
 
-Direita sempre!!!🇧🇷🇨🇱🇺🇲🇮🇱
+A favor do direito à livre defesa da vida, da liberdade de expressão e da propriedade. Contra o Aborto.
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+aborto
+defesa
+expressão
+propriedade
 
 ---------------
 # 000014
-score = -2
-https://mobile.twitter.com/brenolima95
+score = -3
+https://mobile.twitter.com/elianenormant
 
-u005016
-u:brenolima95
+u010822
+u:elianenormant
 
-CONSERVADOR,DEUS,PÁTRIA,FAMÍLIA! Comunismo&Socialismo JÁ MAIS! O preço da LIBERDADE é a ETERNA VIGILÂNCIA.👀 Direita Unida!👊🏽💪🏽🇧🇷
+Nordestina, Conservadora Roxa! Contra liberação de drogas, aborto, ideologia de gênero, a favor da família e dos princípios cristãos...
 
 Lemmas in this profile that loaded on the factor:
 
-deus
-preço
-vigilância
+aborto
+droga
+gênero
+ideologia
 
 ---------------
 # 000015
-score = -2
-https://mobile.twitter.com/caio27rj
+score = -3
+https://mobile.twitter.com/eufagundesz
 
-u005449
-u:caio27rj
+u011671
+u:eufagundesz
 
-cristão,patriota e black belt 🥋 🇧🇷🇦🇷🇮🇱🇺🇲
+Moderação na defesa da verdade é serviço prestado à mentira. 🇧🇷🇺🇲🇮🇱🇹🇼🇺🇦
 
 Lemmas in this profile that loaded on the factor:
 
+defesa
 flag_israel_e
 flag_u_s_outlying_islands_e
+prestar
 
 ---------------
 # 000016
-score = -2
-https://mobile.twitter.com/carloscunha1131
+score = -3
+https://mobile.twitter.com/evaldogomcar
 
-u005891
-u:carloscunha1131
+u011754
+u:evaldogomcar
 
-Casado, Médico Veterinário, pai e conservador! 🇧🇷🇧🇷🇧🇷🇺🇲🇮🇱
+D-us, Pátria, Família e Liberdade Contra: Aborto, Ideologia de gênero e Liberação das drogas 2ª Conta: @E_Gomes3370 Parler: @Evaldogomcar GETTR:@E_Gomes DM 🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+aborto
+droga
+gênero
+ideologia
 
 ---------------
 # 000017
-score = -2
-https://mobile.twitter.com/caveira_81
+score = -3
+https://mobile.twitter.com/fabiolacerda29
 
-u006253
-u:caveira_81
+u012118
+u:fabiolacerda29
 
-minha missão e cumprir a missão 💀💀
+Voto a favor da família, contra o aborto e a ideologia de gênero. Voto 22
 
 Lemmas in this profile that loaded on the factor:
 
-cumprir
-missão
+aborto
+gênero
+ideologia
+voto
 
 ---------------
 # 000018
-score = -2
-https://mobile.twitter.com/cbrlobservador
+score = -3
+https://mobile.twitter.com/francis70033065
 
-u006274
-u:cbrlobservador
+u013394
+u:francis70033065
 
-Lula Ladrão Seu Lugar É na Prisão!!! \"O Preço da Liberdade é a eterna Vigilância\" \"Ninguém é obrigado a concordar com a Verdade\"
+Patriota cristão, contra o aborto, contra a ideologia de gênero, a favor do armamento para o cidadão, a favor da liberdade de expressão. Bolsonaro 🇧🇷🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-preço
-prisão
-vigilância
+aborto
+expressão
+gênero
+ideologia
 
 ---------------
 # 000019
-score = -2
-https://mobile.twitter.com/charll81
+score = -3
+https://mobile.twitter.com/gracabinas
 
-u006554
-u:charll81
+u014683
+u:gracabinas
 
-Nós, conservadores, somos chatos. Mas também estamos certos. Roger Scruton✝️ O preço da liberdade é a eterna vigilância.
+Cristã , conservadora por convicção . Sou contra : o aborto , ideologia de gênero ,drogas ... Defendo : a família ,os valores judaicos /cristãos .
 
 Lemmas in this profile that loaded on the factor:
 
-preço
-vigilância
+aborto
+droga
+gênero
+ideologia
 
 ---------------
 # 000020
-score = -2
-https://mobile.twitter.com/chrysrocknb
+score = -3
+https://mobile.twitter.com/josecss49541
 
-u006673
-u:chrysrocknb
+u017815
+u:josecss49541
 
-PATRIOTA 🇧🇷🇺🇲🇮🇱 Brasil acima de tudo, Deus acima de todos. #38 Aliança Brasil. Flamenguista. Roqueiro. De direita.
+Pátria, Família e Liberdade. Direita Liberal. Paraquedista. Fora ideologia de gêneros, aborto e liberação das drogas. A recíproca é verdadeira 👉🇧🇷🇧🇷🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-flag_israel_e
-flag_u_s_outlying_islands_e
+aborto
+droga
+gênero
+ideologia
 

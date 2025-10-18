@@ -1,225 +1,82 @@
 ---------------
 # 000001
 score = 7
-https://mobile.twitter.com/mayconclk
+https://mobile.twitter.com/carlogrande18
 
-u024071
-u:mayconclk
+u005817
+u:carlogrande18
 
-Deus, Pátria, Família e Liberdade. Conta nova, sigo todos de volta. Outra conta o T$E suspendeu! 🫡🇧🇷
+COM 2 contas bloqueadas pela esquerda esta é a 3ªsou teimoso,lutando pela liberdade de falar oque pensso.SOU DE DIREITA MINHA BANDEIRA JAMAIS SERA VERMELHA
 
 Lemmas in this profile that loaded on the factor:
 
+bandeira
 conta
-contar
-família
+direita
+esquerda
+falar
 liberdade
-novo
-pátria
+vermelho
+
+---------------
+# 000002
+score = 6
+https://mobile.twitter.com/veramaria1930
+
+u034938
+u:veramaria1930
+
+Sou da Direita. Fechada com o Presidente Bolsonaro! Advogada. Quero o cumprimento da Constituição Federal. Conta reserva de @veramariams. NÃO SIGO ESTRANGEIROS
+
+Lemmas in this profile that loaded on the factor:
+
+contar
+direita
+presidente
+querer
+reserva
+seguir
+
+---------------
+# 000003
+score = 6
+https://mobile.twitter.com/marcaocop
+
+u022105
+u:marcaocop
+
+Direita, familia, bom filme, Santista, futebol, enfermagem é sacerdócio. Jesus Save❤️Quero um Brasil para os brasileiros 😉...me segue e sigo de volta 👍🇧🇷🤖✝
+
+Lemmas in this profile that loaded on the factor:
+
+direita
+querer
+robot_e
+segar
 seguir
 volta
 
 ---------------
-# 000002
-score = 7
-https://mobile.twitter.com/marciosouzaa22
-
-u022631
-u:marciosouzaa22
-
-CRISTÃO,conservador e patriota com a graça de Deus! (conta reserva 👉 @Marcio22SAlves) 🙏 DEUS, PÁTRIA, FAMÍLIA, LIBERDADE! 🙏
-
-Lemmas in this profile that loaded on the factor:
-
-backhand_index_pointing_right_e
-contar
-família
-folded_hands_e
-liberdade
-pátria
-reserva
-
----------------
-# 000003
-score = 7
-https://mobile.twitter.com/itamarcareca
-
-u016152
-u:itamarcareca
-
-totalmente de direita Bolsonaro tem razão, minha luta é pela pátria livre do comunismo em defesa da família brasileira!!! NOSSA BANDEIRA JAMAIS SERÁ VERMELHA!
-
-Lemmas in this profile that loaded on the factor:
-
-bandeira
-brasileiro
-direita
-família
-livre
-luta
-pátria
-vermelho
-
----------------
 # 000004
-score = 7
-https://mobile.twitter.com/adeildesmetzker
-
-u000716
-u:adeildesmetzker
-
-Brasileira PATRIOTA, DIREITA CONSERVADORA 👉🏼DEUS, FAMÍLIA, PÁTRIA E LIBERDADE👈🏼 Essa é a minha Bandeira!🇧🇷💚💛 #BolsonaroReeleito2022 2️⃣2️⃣😎🇧🇷
-
-Lemmas in this profile that loaded on the factor:
-
-bandeira
-brasileiro
-direita
-família
-keycap_2_e
-liberdade
-pátria
-smiling_face_with_sunglasses_e
-yellow_heart_e
-
----------------
-# 000005
 score = 6
-https://mobile.twitter.com/urandes1
+https://mobile.twitter.com/janemariafe
 
-u034433
-u:urandes1
+u016593
+u:janemariafe
 
-Se possível SIGA MEU PERFIL ! Brasileiro de direita e conservador Deus , família , meritocracia , a favor da vida e da liberdade de expressão .
-
-Lemmas in this profile that loaded on the factor:
-
-brasileiro
-direita
-expressão
-família
-liberdade
-perfil
-seguir
-
----------------
-# 000006
-score = 6
-https://mobile.twitter.com/sintomito
-
-u032427
-u:sintomito
-
-Perfil de apoio ao presidente! Deus, pátria e família! Siga nos, apoie o Mito, é o futuro da nação em jogo!
-
-Lemmas in this profile that loaded on the factor:
-
-apoio
-família
-perfil
-presidente
-pátria
-seguir
-
----------------
-# 000007
-score = 6
-https://mobile.twitter.com/maumafra27
-
-u023902
-u:maumafra27
-
-Cidadão brasileiro apaixonado por nossa pátria verde amarela. Gay de direita que acredita em Deus e na família.
-
-Lemmas in this profile that loaded on the factor:
-
-amarelo
-brasileiro
-direita
-família
-pátria
-verde
-
----------------
-# 000008
-score = 6
-https://mobile.twitter.com/marcio231068
-
-u022514
-u:marcio231068
-
-CONSERVADOR , DIREITA #FechadoComBolsonaro Deus Pátria, Família e liberdade SÓ SIGO QUEM ME SEGUE OK, FICO UM TEMPO NÃO SEGUIU , DEIXO DE SEGUIR. SOS FFAA. .
-
-Lemmas in this profile that loaded on the factor:
-
-direita
-família
-liberdade
-pátria
-segar
-seguir
-
----------------
-# 000009
-score = 6
-https://mobile.twitter.com/locutorrodrigo1
-
-u020530
-u:locutorrodrigo1
-
-Me segue e será seguido se parar de seguir eu paro tbm. Patriota 🇧🇷 Anticomunista, apoiador do Pr. Bolsonaro🇧🇷🇮🇱🇺🇸 Deus, Pátria, Família. Segunda Conta
+Bióloga, professora aposentada, mãe e avó, direitíssima, de direita, apoiadora do presidente Bolsonaro, porque representa progresso e liberdade.
 
 Lemmas in this profile that loaded on the factor:
 
 apoiador
-contar
-família
-flag_israel_e
-flag_united_states_e
-pátria
-segar
-seguir
-
----------------
-# 000010
-score = 6
-https://mobile.twitter.com/josygsilveira1
-
-u018056
-u:josygsilveira1
-
-Alô Rio 3a CONTA 2a conta👉 @AlRio92047765 De volta até o RedBird deixar.Sempre olho bio d quem me segue antes d seguir. Esquerdopsicopatas aki NÃO! TALKEY?
-
-Lemmas in this profile that loaded on the factor:
-
-backhand_index_pointing_right_e
-conta
-contar
-segar
-seguir
-volta
-
----------------
-# 000011
-score = 6
-https://mobile.twitter.com/franlsneto
-
-u013473
-u:franlsneto
-
-Deus. Pátria. Família. Liberdade. De direita, pela reeleição do nosso Presidente Jair Bolsonaro2️⃣2️⃣ 🇧🇷🇧🇷 Petistas e adoradores de ladrão não tem vez aqui.
-
-Lemmas in this profile that loaded on the factor:
-
+avó
 direita
-família
-keycap_2_e
 liberdade
 presidente
-pátria
+professora
 
 ---------------
-# 000012
+# 000005
 score = 6
 https://mobile.twitter.com/ewmyx1970
 
@@ -236,67 +93,51 @@ direita
 folded_hands_e
 perfil
 robô
+robot_e
 seguir
 
 ---------------
-# 000013
+# 000006
 score = 6
-https://mobile.twitter.com/daniloadrianoo
+https://mobile.twitter.com/claudiana_lina
 
-u008305
-u:daniloadrianoo
+u006952
+u:claudiana_lina
 
-Perfil político : Conservador, de direita contra o comunismo. Bandeiras : Deus, Família, Pátria, Liberdade de Expressão, Livre Comércio, Armamento Civil.
-
-Lemmas in this profile that loaded on the factor:
-
-bandeira
-direita
-expressão
-família
-liberdade
-perfil
-pátria
-
----------------
-# 000014
-score = 6
-https://mobile.twitter.com/carlogrande18
-
-u005817
-u:carlogrande18
-
-COM 2 contas bloqueadas pela esquerda esta é a 3ªsou teimoso,lutando pela liberdade de falar oque pensso.SOU DE DIREITA MINHA BANDEIRA JAMAIS SERA VERMELHA
-
-Lemmas in this profile that loaded on the factor:
-
-bandeira
-conta
-direita
-esquerda
-liberdade
-vermelho
-
----------------
-# 000015
-score = 5
-https://mobile.twitter.com/yoseflacerda
-
-u036267
-u:yoseflacerda
-
-perfil oficial// José Lacerda Souza, funcionário público municipal, direitista em apoio jair Messias bolsonaro//🇧🇷🇧🇷
+Esta página é exclusiva de apoio ao nosso Presidente, Jair Messias Bolsonaro Cristã Conservadora. Bolsonaro 2022 é 22🥰😍🙏 Robô/Gdo🤖🤖🇧🇷🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
 apoio
 bolsonaro
-direitista
+folded_hands_e
 messias
+presidente
+robô
+robot_e
+
+---------------
+# 000007
+score = 5
+https://mobile.twitter.com/zilda022
+
+u036413
+u:zilda022
+
+Católica Apostólica Romana, Direita Conservadora, ANTI-PT, anti-comunista, anti-esquerda, contra o aborto, contra as drogas. Perfil de apoio a #Bolsonaro22🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+anti
+apoio
+católico
+direita
+droga
 perfil
 
 ---------------
-# 000016
+# 000008
 score = 5
 https://mobile.twitter.com/wilsonrfleal
 
@@ -314,76 +155,232 @@ vermelho
 volta
 
 ---------------
-# 000017
+# 000009
 score = 5
-https://mobile.twitter.com/wilson_vigil
+https://mobile.twitter.com/vkonya1
 
-u036008
-u:wilson_vigil
+u035371
+u:vkonya1
 
-Brasileiro, casado, conservador, cristão, apoiador do Presidente Bolsonaro e defensor dos valores morais!
+🇧🇷🇧🇷 Perfil político, sou de direita, conservadora, anti-PeTista, anti-comunista e 💯 % gado e robô de BOLSONARO 🇧🇷🇧🇷 #BOLSONARO2022 😎❤️🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
+anti
+direita
+gado
+perfil
+robô
+smiling_face_with_sunglasses_e
+
+---------------
+# 000010
+score = 5
+https://mobile.twitter.com/soniamarthamen1
+
+u032674
+u:soniamarthamen1
+
+Cidadã Anti-Crime. Direita pró liberalismo econômico. 100% pela Lava Jato. Na LUTA CONTRA corrupção. Lugar do LULADRÃO é NA CADEIA. PR MORO 2026. Conta reserva
+
+Lemmas in this profile that loaded on the factor:
+
+anti
+contar
+direita
+lugar
+luta
+reserva
+
+---------------
+# 000011
+score = 5
+https://mobile.twitter.com/soniabarretojb
+
+u032651
+u:soniabarretojb
+
+Conta reserva. DIREITA, PATRIOTA ! Favor não colocar minha @ em listas SDV. Conta principal @SoniaPatriotaJB
+
+Lemmas in this profile that loaded on the factor:
+
+conta
+contar
+direita
+lista
+reserva
+
+---------------
+# 000012
+score = 5
+https://mobile.twitter.com/nbaraldi
+
+u025677
+u:nbaraldi
+
+Cristã evangélica, casada com Lívio, mãe, professora e artesã. De direita e apoiadora do Presidente Bolsonaro. Não à pedofilia, ideologia de gênero e aborto.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
 apoiador
-bolsonaro
-brasileiro
-moral
+direita
+gênero
 presidente
+professora
+
+---------------
+# 000013
+score = 5
+https://mobile.twitter.com/mayconclk
+
+u024071
+u:mayconclk
+
+Deus, Pátria, Família e Liberdade. Conta nova, sigo todos de volta. Outra conta o T$E suspendeu! 🫡🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+conta
+contar
+família
+liberdade
+pátria
+seguir
+volta
+
+---------------
+# 000014
+score = 5
+https://mobile.twitter.com/marcelo88387147
+
+u022224
+u:marcelo88387147
+
+Deus. Católico. Direita. Conservador. Família. Armamentista. Contra o aborto. Contra Ideologia de gênero. Odeio PT, PSOL, Lula e quem os seguem. Bolsonaro 2026.
+
+Lemmas in this profile that loaded on the factor:
+
+aborto
+armamentista
+bolsonaro
+católico
+direita
+família
+gênero
+odiar
+seguir
+
+---------------
+# 000015
+score = 5
+https://mobile.twitter.com/josygsilveira1
+
+u018056
+u:josygsilveira1
+
+Alô Rio 3a CONTA 2a conta👉 @AlRio92047765 De volta até o RedBird deixar.Sempre olho bio d quem me segue antes d seguir. Esquerdopsicopatas aki NÃO! TALKEY?
+
+Lemmas in this profile that loaded on the factor:
+
+backhand_index_pointing_right_e
+conta
+contar
+segar
+seguir
+volta
+
+---------------
+# 000016
+score = 5
+https://mobile.twitter.com/josudefreitas8
+
+u018025
+u:josudefreitas8
+
+Conta reserva em busca da tão sonhada LIBERDADE.O Brasil não pode retroceder e juntos,num grande Exército do bem, faremos a diferença.Bolsonaro Presidente!
+
+Lemmas in this profile that loaded on the factor:
+
+bolsonaro
+contar
+liberdade
+presidente
+reserva
+
+---------------
+# 000017
+score = 5
+https://mobile.twitter.com/jecilen61473658
+
+u016872
+u:jecilen61473658
+
+PERFIL COM O ÚNICO INTUITO DE APOIO AO PRESIDENTE 💚🇧🇷💛🇧🇷💙🇧🇷NÃO FALO NO PRIVADO, ou seja ...SEM DM. Não sigo estrangeiros, só os indicados.
+
+Lemmas in this profile that loaded on the factor:
+
+apoio
+blue_heart_e
+falar
+green_heart_e
+perfil
+presidente
+seguir
+yellow_heart_e
 
 ---------------
 # 000018
 score = 5
-https://mobile.twitter.com/willianwillcg
+https://mobile.twitter.com/jackprisco
 
-u035983
-u:willianwillcg
+u016357
+u:jackprisco
 
-Brasileiro🇧🇷, Cristão🙏, de Direita Conservador💛, Vendedor com Orgulho💼. Estou aqui para incomodar esquerdistas acéfalos 🤣 ME SEGUE EU SIGO DE VOLTA🤛🏼
+Trabalhador de DIREITA, odeio esquerda... minha bandeira jamais será vermelha. Hoby, Ativismo!
 
 Lemmas in this profile that loaded on the factor:
 
+bandeira
 direita
-folded_hands_e
-segar
-seguir
-volta
-yellow_heart_e
+esquerda
+odiar
+vermelho
 
 ---------------
 # 000019
 score = 5
-https://mobile.twitter.com/vonescavalcante
+https://mobile.twitter.com/j_amaro
 
-u035415
-u:vonescavalcante
+u016313
+u:j_amaro
 
-Policial militar, gastrônomo, de direita, armamentista, defensor da família e da liberdade, contra o comunismo e apoiador do presidente Bolsonaro! Manaus AM
+Sem político de estimação e sem acreditar em salvadores da Pátria. Se quiserem me rotular, sou de direita. Nossa bandeira jamais será vermelha. 🇧🇷
 
 Lemmas in this profile that loaded on the factor:
 
-apoiador
-armamentista
+bandeira
 direita
-família
-liberdade
-presidente
+estimação
+pátria
+querer
+vermelho
 
 ---------------
 # 000020
 score = 5
-https://mobile.twitter.com/vivienbonoro
+https://mobile.twitter.com/hpassbh4
 
-u035358
-u:vivienbonoro
+u015570
+u:hpassbh4
 
-Brasileira, casada, amo meu Deus, minha família, minha Pátria, e o meu Presidente. \"A nossa luta, não é pela gloria da nossa geração, mas pelo bem da próxima!\"
+💯 Direita 🇧🇷 🇺🇸 🇬🇧 Sem paciência, esquerdopata é Block. NÃO SIGO LISTA E NEM CONTA FECHADA! Este é o 4° Perfil.
 
 Lemmas in this profile that loaded on the factor:
 
-brasileiro
-família
-luta
-presidente
-pátria
+conta
+direita
+lista
+perfil
+seguir
 

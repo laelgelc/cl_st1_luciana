@@ -274,7 +274,7 @@ mkdir -p profiles/wordclouds
 
 rm -f profiles/wordclouds/profiles_dim*.png
 
-for i in {1..7}
+for i in {1..5}
 do
   column=$( echo " $i + 1 " | bc ) 
   cut -f1,"$column" profiles/sas/output_group"$group"_profiles/group"$group"_profiles_scores_only.tsv | tail +2 > a
@@ -325,7 +325,7 @@ python extract_factors.py --project $project
 
 head -1 profiles/sas/output_group"$group"_profiles/group"$group"_profiles_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
-for i in {1..7}
+for i in {1..5}
 do
   column=$( echo " $i + 1 " | bc )
   cut -f1,"$column" profiles/sas/output_group"$group"_profiles/group"$group"_profiles_scores_only.tsv  | tail +2 > a
