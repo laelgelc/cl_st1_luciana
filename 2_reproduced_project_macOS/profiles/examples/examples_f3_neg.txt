@@ -211,8 +211,8 @@ u:barbosa_petrus
 
 Lemmas in this profile that loaded on the factor:
 
-mão
 merecer
+mão
 
 ---------------
 # 000015

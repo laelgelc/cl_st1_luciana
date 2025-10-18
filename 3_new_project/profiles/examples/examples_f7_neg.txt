@@ -1,0 +1,317 @@
+---------------
+# 000001
+score = -4
+https://mobile.twitter.com/ddiogovvinicius
+
+u008582
+u:ddiogovvinicius
+
+Corretor de imóveis à mais de 15 anos no mercado imobiliário da serra gaúcha. Atualmente desenvolvendo meu trabalho junto à imob. Serra Prime.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imobiliário
+imóvel
+mercado
+
+---------------
+# 000002
+score = -4
+https://mobile.twitter.com/labieno_jr
+
+u019267
+u:labieno_jr
+
+CORRETOR de IMÓVEIS: com forte atuação no mercado imobiliário rural, intermediando a compra, venda, arrendamentos. PERITO AVALIADOR IMOBILIÁRIO: CNAI - 26236.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+forte
+imobiliário
+imóvel
+mercado
+
+---------------
+# 000003
+score = -3
+https://mobile.twitter.com/albaformigagma1
+
+u001291
+u:albaformigagma1
+
+Votei em Bolsonaro e votaria de novo, apoio o Presidente e no meu perfil não há lugar para esquerdopatas. Sou psicóloga, corretora de imóveis e geek.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+novo
+
+---------------
+# 000004
+score = -3
+https://mobile.twitter.com/annycarolinevi4
+
+u003249
+u:annycarolinevi4
+
+A mais de 10 anos no mercado imobiliário, me especializei em pessoas que buscam imóveis de médio e alto padrão.
+
+Lemmas in this profile that loaded on the factor:
+
+alto
+imobiliário
+imóvel
+mercado
+
+---------------
+# 000005
+score = -3
+https://mobile.twitter.com/educorretorbsb
+
+u010557
+u:educorretorbsb
+
+Formado em Gestão Negócios Imobiliários/Bolsonarista/Cristão/Família/Direita/Avaliador de Imóveis/ Amante da Politica/ Liberdade/ Negro/ Corretor de Imóveis.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imobiliário
+negro
+
+---------------
+# 000006
+score = -3
+https://mobile.twitter.com/lourraine_silva
+
+u020646
+u:lourraine_silva
+
+Empresária, Consultora de Turismo Imobiliário ◇ Amo viver novas experiências.
+
+Lemmas in this profile that loaded on the factor:
+
+consultor
+imobiliário
+novo
+
+---------------
+# 000007
+score = -3
+https://mobile.twitter.com/mfpaiva
+
+u024397
+u:mfpaiva
+
+Advogado por opção, Rubro Negro por vocação! Direitista, armamentista, carnívoro, hétero. Essa nova geração fudeu o mundo… DM🚫.
+
+Lemmas in this profile that loaded on the factor:
+
+geração
+negro
+novo
+
+---------------
+# 000008
+score = -3
+https://mobile.twitter.com/sergioperez_br
+
+u031919
+u:sergioperez_br
+
+Curioso, fuçador e eterno aluno da vida! Marketing Digital na geração de Leads e Remarket no mercado imobiliário.
+
+Lemmas in this profile that loaded on the factor:
+
+geração
+imobiliário
+mercado
+
+---------------
+# 000009
+score = -3
+https://mobile.twitter.com/tiagolnoia
+
+u033928
+u:tiagolnoia
+
+Consultor de vendas de vinhos e espumantes! Técnico em Química e Prof, e agora entrando no mundo do mercado financeiro, bolsa de valores, investimentos.
+
+Lemmas in this profile that loaded on the factor:
+
+consultor
+financeiro
+mercado
+
+---------------
+# 000010
+score = -3
+https://mobile.twitter.com/wartonpedro
+
+u035682
+u:wartonpedro
+
+Corretor de imóveis, Perito Avaliador Imobiliário, parceiro da Foxter Cia Imobiliária em Porto Alegre, pesquisa de áreas para empresas no RS.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+empresa
+imobiliário
+imóvel
+
+---------------
+# 000011
+score = -2
+https://mobile.twitter.com/adriana23962207
+
+u000847
+u:adriana23962207
+
+corretora de imóveis RJ
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+
+---------------
+# 000012
+score = -2
+https://mobile.twitter.com/alca123
+
+u001349
+u:alca123
+
+Sou cristã,sou família e do lado da direita.Amo minha pátria e na luta para deixar um Brasil melhor para a nova geração.#EuApoioBolsonaro #TrumpToSaveAmerica
+
+Lemmas in this profile that loaded on the factor:
+
+geração
+luta
+novo
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/alexandresalema
+
+u001697
+u:alexandresalema
+
+Executivo e empresário com foco em novos negócios e inovação. Sou a favor de um estado mínimo com foco principal em saúde, segurança e educação. Livre mercado!
+
+Lemmas in this profile that loaded on the factor:
+
+mercado
+novo
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/antonio4araujo
+
+u003336
+u:antonio4araujo
+
+🇧🇷 Pátria amada, Brasil 🇧🇷 ! Advogado, corretor de imóveis. Pescador e motociclista nas horas vagas... SDV Siga-me no GE T T R
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/antoniobritof
+
+u003378
+u:antoniobritof
+
+Consultor de diligência financeira, ex auditor, músico e gamer nas horas vagas, casado e pai de 2 gatos.
+
+Lemmas in this profile that loaded on the factor:
+
+consultor
+financeiro
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/arnaldomeneses
+
+u003664
+u:arnaldomeneses
+
+Corretor de imóveis Especialista no seu primeiro imóvel com subsídio + ITBI e Cartório Grátis. WhatsApp: 🤳Link👉 https://t.co/Rh8O487coH
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/bambuembaixo
+
+u004054
+u:bambuembaixo
+
+Advogado, pai de família, em busca de um futuro digno para as novas gerações
+
+Lemmas in this profile that loaded on the factor:
+
+geração
+novo
+
+---------------
+# 000018
+score = -2
+https://mobile.twitter.com/biancam33772085
+
+u004501
+u:biancam33772085
+
+Sou corretora de imóveis e advogada, e atuo de forma dinâmica e transparente de forma a realizar o seu sonho da casa própria.
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+próprio
+
+---------------
+# 000019
+score = -2
+https://mobile.twitter.com/cads_corretor
+
+u005416
+u:cads_corretor
+
+Corretor de imóveis em Sorocaba -SP
+
+Lemmas in this profile that loaded on the factor:
+
+corretor
+imóvel
+
+---------------
+# 000020
+score = -2
+https://mobile.twitter.com/cguinati
+
+u006517
+u:cguinati
+
+Interesse profissional no mercado financeiro
+
+Lemmas in this profile that loaded on the factor:
+
+financeiro
+mercado
+

@@ -1,0 +1,307 @@
+---------------
+# 000001
+score = -3
+https://mobile.twitter.com/nadia1monteiro
+
+u025426
+u:nadia1monteiro
+
+🙏🏼Orai e Vigiai! “Não Parar, Não Precipitar, Não Retroceder” 🇧🇷🫡 “O Preço da Liberdade é a Eterna Vigilância”♥️👻
+
+Lemmas in this profile that loaded on the factor:
+
+preço
+retroceder
+vigilância
+
+---------------
+# 000002
+score = -3
+https://mobile.twitter.com/vozdobrasiil
+
+u035431
+u:vozdobrasiil
+
+O preço da liberdade é a eterna vigilância 🇧🇷🇮🇱🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+preço
+vigilância
+
+---------------
+# 000003
+score = -2
+https://mobile.twitter.com/4mey_7
+
+u000174
+u:4mey_7
+
+O preço da liberdade é a eterna vigilância. Freedom is not free! 🐸https://t.co/0PTJtNYXfd
+
+Lemmas in this profile that loaded on the factor:
+
+preço
+vigilância
+
+---------------
+# 000004
+score = -2
+https://mobile.twitter.com/_jota_junior
+
+u000344
+u:_jota_junior
+
+🇧🇷🇧🇷🇧🇷👊🏻🐷👍🏻💚 Estratégia pra mim só tem lógica quando a missão tem sentido...Mas quando tem sentido: Missão dada é Missão Cumprida !!!
+
+Lemmas in this profile that loaded on the factor:
+
+cumprir
+missão
+
+---------------
+# 000005
+score = -2
+https://mobile.twitter.com/_tpreto
+
+u000441
+u:_tpreto
+
+Cristão, Conservador, Patriota. 🇧🇷🇮🇱🇺🇲
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000006
+score = -2
+https://mobile.twitter.com/abonett77
+
+u000563
+u:abonett77
+
+#Bolsonaro22!🇧🇷 i support president Bolsonaro; Cristão/Casado/Direita; “O preço da Liberdade é a eterna Vigilância” Brasil acima de tudo, Deus acima de todos!
+
+Lemmas in this profile that loaded on the factor:
+
+preço
+vigilância
+
+---------------
+# 000007
+score = -2
+https://mobile.twitter.com/alanojesus
+
+u001278
+u:alanojesus
+
+✝️🇧🇷🇮🇱🇺🇲 Graduado em RH, com Formação técnica em ADM, Profissional de Depto Pessoal. E 🤖 do 🤡. DEUS, PÁTRIA E FAMÍLIA!!!
+
+Lemmas in this profile that loaded on the factor:
+
+deus
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000008
+score = -2
+https://mobile.twitter.com/alexandrealbu35
+
+u001655
+u:alexandrealbu35
+
+2 Tenente R/2 - Infantaria - Sub Oficial da Marinha Mercante - Brasil Acima de Tudo - Deus acima de todos 🇧🇷🇺🇲🇮🇱🇬🇧Pró Bolsonaro Até 2026
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000009
+score = -2
+https://mobile.twitter.com/amilton_ajunior
+
+u002280
+u:amilton_ajunior
+
+#VotoAuditavelJa 🇧🇷🇮🇱🇺🇲ultraconservador🇺🇲🇮🇱🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000010
+score = -2
+https://mobile.twitter.com/arthurcristoph1
+
+u003714
+u:arthurcristoph1
+
+Engenheiro - Direita ( O preço da liberdade é a eterna vigilância. ) BRASIL ACIMA DE TUDO, DEUS ACIMA DE TODOS. 💚💛 😎👉👉💥💥
+
+Lemmas in this profile that loaded on the factor:
+
+deus
+preço
+vigilância
+
+---------------
+# 000011
+score = -2
+https://mobile.twitter.com/barroscnh
+
+u004131
+u:barroscnh
+
+HONRA, GLÓRIAS, LOUVORES A DEUS!
+
+Lemmas in this profile that loaded on the factor:
+
+deus
+glória
+honra
+
+---------------
+# 000012
+score = -2
+https://mobile.twitter.com/bomfimivanete
+
+u004762
+u:bomfimivanete
+
+👉👍 🇧🇷🇮🇱🇺🇲👍🇧🇷🇮🇱🇺🇲👍🇧🇷🇮🇱🇺🇲👍 É O POVO QUEM DECIDE O PRESIDENTE DO BRASIL. EU NÃO VOTEI NO LULA PT E NÃO RECONHEÇO COMO PRESIDENTE DO BRASIL.
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/bonnieximena
+
+u004776
+u:bonnieximena
+
+Direita sempre!!!🇧🇷🇨🇱🇺🇲🇮🇱
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/brenolima95
+
+u005016
+u:brenolima95
+
+CONSERVADOR,DEUS,PÁTRIA,FAMÍLIA! Comunismo&Socialismo JÁ MAIS! O preço da LIBERDADE é a ETERNA VIGILÂNCIA.👀 Direita Unida!👊🏽💪🏽🇧🇷
+
+Lemmas in this profile that loaded on the factor:
+
+deus
+preço
+vigilância
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/caio27rj
+
+u005449
+u:caio27rj
+
+cristão,patriota e black belt 🥋 🇧🇷🇦🇷🇮🇱🇺🇲
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/carloscunha1131
+
+u005891
+u:carloscunha1131
+
+Casado, Médico Veterinário, pai e conservador! 🇧🇷🇧🇷🇧🇷🇺🇲🇮🇱
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/caveira_81
+
+u006253
+u:caveira_81
+
+minha missão e cumprir a missão 💀💀
+
+Lemmas in this profile that loaded on the factor:
+
+cumprir
+missão
+
+---------------
+# 000018
+score = -2
+https://mobile.twitter.com/cbrlobservador
+
+u006274
+u:cbrlobservador
+
+Lula Ladrão Seu Lugar É na Prisão!!! \"O Preço da Liberdade é a eterna Vigilância\" \"Ninguém é obrigado a concordar com a Verdade\"
+
+Lemmas in this profile that loaded on the factor:
+
+preço
+prisão
+vigilância
+
+---------------
+# 000019
+score = -2
+https://mobile.twitter.com/charll81
+
+u006554
+u:charll81
+
+Nós, conservadores, somos chatos. Mas também estamos certos. Roger Scruton✝️ O preço da liberdade é a eterna vigilância.
+
+Lemmas in this profile that loaded on the factor:
+
+preço
+vigilância
+
+---------------
+# 000020
+score = -2
+https://mobile.twitter.com/chrysrocknb
+
+u006673
+u:chrysrocknb
+
+PATRIOTA 🇧🇷🇺🇲🇮🇱 Brasil acima de tudo, Deus acima de todos. #38 Aliança Brasil. Flamenguista. Roqueiro. De direita.
+
+Lemmas in this profile that loaded on the factor:
+
+flag_israel_e
+flag_u_s_outlying_islands_e
+

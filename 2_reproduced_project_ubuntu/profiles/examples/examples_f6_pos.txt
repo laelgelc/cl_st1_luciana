@@ -1,0 +1,366 @@
+---------------
+# 000001
+score = 6
+https://mobile.twitter.com/rubensclemente
+
+u031091
+u:rubensclemente
+
+🎵🎶🎹Sincero, claro e objetivo🎹🎙️🎸. Valorizo quem me valoriza. ❤️Deus❤️ , família, Palmeiras💚 Amigos (as) 🇧🇷DIREITA 🇧🇷 🚫Esquerda-Lulista🚫
+
+Lemmas in this profile that loaded on the factor:
+
+flag_brazil_e
+green_heart_e
+guitar_e
+musical_note_e
+musical_notes_e
+red_heart_e
+
+---------------
+# 000002
+score = 6
+https://mobile.twitter.com/rose_saboleski
+
+u030817
+u:rose_saboleski
+
+DEUS ACIMA DE TUDO🙏🏽 tutora de onze filhos de quatro🐾🐾🐶🥰amo minha família... SDV sempre...esquerda e perfil fechado não.. direita sempre 🇧🇷💚💛💙🍀🌻🌼
+
+Lemmas in this profile that loaded on the factor:
+
+blossom_e
+blue_heart_e
+dog_face_e
+flag_brazil_e
+green_heart_e
+paw_prints_e
+sunflower_e
+
+---------------
+# 000003
+score = 6
+https://mobile.twitter.com/nellros70983941
+
+u025770
+u:nellros70983941
+
+Conservadora❤️ Nordestina 🏜️ Ler📚 A+💉 37 Primaveras💐 C.S.C🤍🖤 Patriota🇧🇷 Cristã🙏🏻 Empreendedora💵 Politicamente Incorreta👊🏻 Serviço Social⚖️
+
+Lemmas in this profile that loaded on the factor:
+
+black_heart_e
+flag_brazil_e
+nordestino
+red_heart_e
+syringe_e
+white_heart_e
+
+---------------
+# 000004
+score = 5
+https://mobile.twitter.com/vdanielle703
+
+u034856
+u:vdanielle703
+
+dinda da Manuella ❤️ dinda do Micael ❤️ dinda do Pierre ❤️ 23 aninhos / pisciana ♓/ técnica em enfermagem 💉💊 carioca ☀️ 🌊 livre🦋
+
+Lemmas in this profile that loaded on the factor:
+
+enfermagem
+red_heart_e
+sun_e
+syringe_e
+water_wave_e
+
+---------------
+# 000005
+score = 5
+https://mobile.twitter.com/soucalmo
+
+u032753
+u:soucalmo
+
+Tâmo aí na atividade.. Remando contra a maré vermelha! #Bolsonaro 🇧🇷 #SPFC 🔴⚫️⚪️ // Mode on.. #SPFC #ColtsNation #GoMagic #MAGA #KAG 🇺🇸
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+flag_brazil_e
+flag_united_states_e
+red_circle_e
+white_circle_e
+
+---------------
+# 000006
+score = 5
+https://mobile.twitter.com/sircaveira
+
+u032433
+u:sircaveira
+
+@Flamengo 🔴⚫ @imperialesports 💚 🇧🇷😎 BOLSONARO PRESIDENTE 22 Empresário - Chef de Cozinha - Investidor
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+flag_brazil_e
+green_heart_e
+red_circle_e
+smiling_face_with_sunglasses_e
+
+---------------
+# 000007
+score = 5
+https://mobile.twitter.com/simone10200221
+
+u032347
+u:simone10200221
+
+Sãopaulina feliz 🔴⚪⚫ Conservadora Católica Cristã Mãe do Dom 🐶🐾
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+dog_face_e
+paw_prints_e
+red_circle_e
+white_circle_e
+
+---------------
+# 000008
+score = 5
+https://mobile.twitter.com/silvalorenzzo
+
+u032197
+u:silvalorenzzo
+
+🇧🇷 😎❤️🏎️🏈🏀⚽⚪⚫
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+flag_brazil_e
+red_heart_e
+smiling_face_with_sunglasses_e
+white_circle_e
+
+---------------
+# 000009
+score = 5
+https://mobile.twitter.com/sergiomaujr
+
+u031909
+u:sergiomaujr
+
+Pai da Estrela 🐶⠀ Carioca 🌊⠀ Trabalha com TI 🖥 ⠀ ⠀ Flerta com a fotografia 📸⠀Apaixonado pelo mercado financeiro 💹 ⠀ Flamenguista fanático 🔴⚫️ E Músico 🎶
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+dog_face_e
+musical_notes_e
+red_circle_e
+water_wave_e
+
+---------------
+# 000010
+score = 5
+https://mobile.twitter.com/r_a_c1980
+
+u028540
+u:r_a_c1980
+
+- Casado 💍 (Paty Costa) - Pai do #enrico10 👶🏼 - Tricolor de ❤️ (🔴⚫️⚪️👊🏼) - Engenheiro de Profissão 📊🔧🔩⚙️
+
+Lemmas in this profile that loaded on the factor:
+
+bar_chart_e
+black_circle_e
+red_circle_e
+red_heart_e
+white_circle_e
+
+---------------
+# 000011
+score = 5
+https://mobile.twitter.com/paulakah6
+
+u027243
+u:paulakah6
+
+🇧🇷💯% Deus, Pátria, Família e Liberdade💚💛💙🤍🙏 A VERDADE SEMPRE PREVALECERÁ! 🇧🇷 🤜🇧🇷🤛
+
+Lemmas in this profile that loaded on the factor:
+
+blue_heart_e
+flag_brazil_e
+green_heart_e
+left_facing_fist_e
+right_facing_fist_e
+white_heart_e
+
+---------------
+# 000012
+score = 5
+https://mobile.twitter.com/marcielag2
+
+u022495
+u:marcielag2
+
+Mãe💗, Esposa 💑, ADM📊, Patriota🇧🇷, Nordestina🌵🌅, ABC FC ⚽, Palmeirense💚 Brasil acima de tudo e Deus acima de todos 💚💛💙
+
+Lemmas in this profile that loaded on the factor:
+
+bar_chart_e
+blue_heart_e
+cactus_e
+flag_brazil_e
+green_heart_e
+nordestino
+
+---------------
+# 000013
+score = 5
+https://mobile.twitter.com/luciana1808r
+
+u020879
+u:luciana1808r
+
+Advertiser 5am Club I ❤ exercising, sports and life outside ❤ SP 💛💚BR 🇧🇷 ❤ ⛱🌊 e ☀
+
+Lemmas in this profile that loaded on the factor:
+
+flag_brazil_e
+green_heart_e
+red_heart_e
+sun_e
+water_wave_e
+
+---------------
+# 000014
+score = 5
+https://mobile.twitter.com/lilaborges8
+
+u020244
+u:lilaborges8
+
+Octa 🐾🌊🔴⚫❤
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+paw_prints_e
+red_circle_e
+red_heart_e
+water_wave_e
+
+---------------
+# 000015
+score = 5
+https://mobile.twitter.com/gusta_vaomello
+
+u014971
+u:gusta_vaomello
+
+Gustavo Gusmão🇧🇷, Aqui é Furacão ❤️🌪🖤, Cervejas Artesanais🍻, anti PT🚮, e Proprietário da Cactus Thermical🌵. Instagram gustavo79mello / cactus_thermical
+
+Lemmas in this profile that loaded on the factor:
+
+black_heart_e
+cactus_e
+flag_brazil_e
+instagram
+red_heart_e
+
+---------------
+# 000016
+score = 5
+https://mobile.twitter.com/flviacoutinho17
+
+u013207
+u:flviacoutinho17
+
+Patriota 💚 Casada e mãe de 4 filhos ❤ 🇧🇷🇱🇷🇮🇱 e muito abençoada por Deus 🙌🌻💛💚
+
+Lemmas in this profile that loaded on the factor:
+
+flag_brazil_e
+flag_liberia_e
+green_heart_e
+red_heart_e
+sunflower_e
+
+---------------
+# 000017
+score = 5
+https://mobile.twitter.com/evandroarajori2
+
+u011767
+u:evandroarajori2
+
+Patriota💪🇧🇷 Administrador📊✒📈 Nordestino com orgulho 🌵🌅.
+
+Lemmas in this profile that loaded on the factor:
+
+bar_chart_e
+cactus_e
+chart_increasing_e
+flag_brazil_e
+nordestino
+
+---------------
+# 000018
+score = 5
+https://mobile.twitter.com/doug111180
+
+u009645
+u:doug111180
+
+Deus acima de todos 🙌🏿✝️ Brasil 🇧🇷 Conservador ➡️ Trader 📈📉📊 Corintiano roxo.🖤🤍
+
+Lemmas in this profile that loaded on the factor:
+
+bar_chart_e
+black_heart_e
+chart_increasing_e
+flag_brazil_e
+white_heart_e
+
+---------------
+# 000019
+score = 5
+https://mobile.twitter.com/criseshana
+
+u007673
+u:criseshana
+
+Não sou robô!! Trabalho de graça por um Brasil decente com Bolsonaro!! 🇧🇷💚💛🇧🇷 SDV todos de direita!! Sou Tricolor... SPFC ❤️🤍🖤
+
+Lemmas in this profile that loaded on the factor:
+
+black_heart_e
+flag_brazil_e
+green_heart_e
+red_heart_e
+white_heart_e
+
+---------------
+# 000020
+score = 5
+https://mobile.twitter.com/btpaulinho
+
+u005278
+u:btpaulinho
+
+🙏🏻 Jesus / 🧒🏼22 anos / 💍Amanda Blanc 🥁Baterista / 🎓Formado em Designer Gráfico 🔴⚪⚫ São Paulino
+
+Lemmas in this profile that loaded on the factor:
+
+black_circle_e
+designer
+gráfico
+red_circle_e
+white_circle_e
+

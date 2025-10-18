@@ -1,0 +1,304 @@
+---------------
+# 000001
+score = -3
+https://mobile.twitter.com/_joaopedrorossi
+
+u000342
+u:_joaopedrorossi
+
+Colorado, gaúcho defensor da cultura, Engenheiro Agrônomo, mestrando em produção vegetal e apaixonado pela @_michelemn! Me permito mudar de opinião! 🟩🟥🟨
+
+Lemmas in this profile that loaded on the factor:
+
+green_square_e
+produção
+yellow_square_e
+
+---------------
+# 000002
+score = -3
+https://mobile.twitter.com/biragomess
+
+u004578
+u:biragomess
+
+Pai , Administrador, MBA em MKT. Patriota 🇧🇷, Cristão,Sócio Proprietário do CRVG 💢 e NÃO tenho Bandido ou Político de Estimação. Esquerdopatas fiquem longe.
+
+Lemmas in this profile that loaded on the factor:
+
+estimação
+proprietário
+sócio
+
+---------------
+# 000003
+score = -2
+https://mobile.twitter.com/andreavallet25
+
+u002823
+u:andreavallet25
+
+Produção musical
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produção
+
+---------------
+# 000004
+score = -2
+https://mobile.twitter.com/antaonet
+
+u003265
+u:antaonet
+
+Lavrense,servidor público, educador físico, estudante, estressado, sarcástico, beatlemaníaco e botafoguense por predestinação. Nas horas vagas canto no chuveiro
+
+Lemmas in this profile that loaded on the factor:
+
+servidor
+vagar
+
+---------------
+# 000005
+score = -2
+https://mobile.twitter.com/betosantobsp
+
+u004447
+u:betosantobsp
+
+Empresario, Produtor Musical, arranjador, Guitarrista
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000006
+score = -2
+https://mobile.twitter.com/carlose77664649
+
+u005900
+u:carlose77664649
+
+Engenheiro eletricista e patriota. O Brasil tem que parar. 🟨🟩
+
+Lemmas in this profile that loaded on the factor:
+
+green_square_e
+yellow_square_e
+
+---------------
+# 000007
+score = -2
+https://mobile.twitter.com/conservamidia1
+
+u007459
+u:conservamidia1
+
+Reunir e apoiar o jornalismo e produtores de conteúdo de mídia independestes com essência conservadora.
+
+Lemmas in this profile that loaded on the factor:
+
+conteúdo
+produtor
+
+---------------
+# 000008
+score = -2
+https://mobile.twitter.com/cordeirogroove
+
+u007497
+u:cordeirogroove
+
+Músico baterista, produtor musical, aquarista apaixonado pelo hobby.
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000009
+score = -2
+https://mobile.twitter.com/deejay_amk
+
+u008687
+u:deejay_amk
+
+deejay e produtor musical morando no Japão
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000010
+score = -2
+https://mobile.twitter.com/edconsmf
+
+u010083
+u:edconsmf
+
+Engenheiro Civil e de Segurança do Trabalho. Sócio proprietário da empresa Engevitae
+
+Lemmas in this profile that loaded on the factor:
+
+proprietário
+sócio
+
+---------------
+# 000011
+score = -2
+https://mobile.twitter.com/ederediego
+
+u010123
+u:ederediego
+
+Éder e Diego: 20 anos de carreira, arranjadores, produtores musicais! Simplesmente Éder e Diego!
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000012
+score = -2
+https://mobile.twitter.com/emerson_vas
+
+u011237
+u:emerson_vas
+
+Carioca, casado, conservador 😎 👉🏼👉🏼, Representante comercial e comerciante. Torcedor e sócio proprietário do Vascão. Integrante do Grupo @TradicaoV
+
+Lemmas in this profile that loaded on the factor:
+
+proprietário
+sócio
+
+---------------
+# 000013
+score = -2
+https://mobile.twitter.com/emmi_ricardo
+
+u011298
+u:emmi_ricardo
+
+- Diretor e fundador da BSAL® Banda Sinfônica Antônio Lemos/ - Fundador do Projeto Sócio-Musical Sons da Amazônia. - Membro da Academia Izabelense de Letras.
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+sócio
+
+---------------
+# 000014
+score = -2
+https://mobile.twitter.com/gabrielamorim7
+
+u013691
+u:gabrielamorim7
+
+Sócio proprietário da Agro F Nunes Dedetizadora e UP Publicidade.
+
+Lemmas in this profile that loaded on the factor:
+
+proprietário
+sócio
+
+---------------
+# 000015
+score = -2
+https://mobile.twitter.com/gustavo_eccon
+
+u014991
+u:gustavo_eccon
+
+Sócio-proprietário Boi Invest / Zootecnista 01817/Z SP. / Agente Autônomo de Investimento. Fone: +55 18 9 9180 8022
+
+Lemmas in this profile that loaded on the factor:
+
+proprietário
+sócio
+
+---------------
+# 000016
+score = -2
+https://mobile.twitter.com/hsrickli
+
+u015586
+u:hsrickli
+
+Produtor Musical, Eng. de Gravação e Mixagem, pai, marido, flamenguista, servo de Deus, Pro Armas e terrivelmente Bolsonaro!!! 🇧🇷 💪🏻 🇺🇸 Trump supporter
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000017
+score = -2
+https://mobile.twitter.com/iamdiguinho
+
+u015662
+u:iamdiguinho
+
+Cantor. Vídeo Music Director. Produtor musical, DIG-JAM Films digjam@digjam.com.br
+
+Lemmas in this profile that loaded on the factor:
+
+musical
+produtor
+
+---------------
+# 000018
+score = -2
+https://mobile.twitter.com/josdossantospi5
+
+u017777
+u:josdossantospi5
+
+Músico amador multi instrumentista, Bacharel em arte musical, Bacharel em química industrial e eng. de produção, professor e amante de carros antigos.🅾️-
+
+Lemmas in this profile that loaded on the factor:
+
+bacharel
+musical
+produção
+
+---------------
+# 000019
+score = -2
+https://mobile.twitter.com/lcdeaquino
+
+u019518
+u:lcdeaquino
+
+Graduado Eng. Agrônomo, é Mestre em Economia Rural e servidor do INCRA. Enquanto cidadão aurorense (CE) é um pequeno Produtor Rural dedicado à pecuária🇧🇷🇧🇷.
+
+Lemmas in this profile that loaded on the factor:
+
+produtor
+servidor
+
+---------------
+# 000020
+score = -2
+https://mobile.twitter.com/logicaauto
+
+u020535
+u:logicaauto
+
+⚙️🔩🔧Especialista em Máquinas⚙️🔩🔧 📺YouTuber produtor de conteúdo📺 ⚗️Teste de produtos ⚗️
+
+Lemmas in this profile that loaded on the factor:
+
+conteúdo
+especialista
+produtor
+

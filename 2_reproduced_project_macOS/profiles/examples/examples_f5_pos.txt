@@ -173,8 +173,8 @@ Lemmas in this profile that loaded on the factor:
 
 economia
 educação
-físico
 formar
+físico
 voto
 
 ---------------
