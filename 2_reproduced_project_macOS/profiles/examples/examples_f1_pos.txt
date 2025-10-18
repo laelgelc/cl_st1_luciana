@@ -116,9 +116,9 @@ Lemmas in this profile that loaded on the factor:
 
 apoio
 família
+pátria
 perfil
 presidente
-pátria
 seguir
 
 ---------------
@@ -215,8 +215,8 @@ direita
 família
 keycap_2_e
 liberdade
-presidente
 pátria
+presidente
 
 ---------------
 # 000012
@@ -255,8 +255,8 @@ direita
 expressão
 família
 liberdade
-perfil
 pátria
+perfil
 
 ---------------
 # 000014
@@ -384,6 +384,6 @@ Lemmas in this profile that loaded on the factor:
 brasileiro
 família
 luta
-presidente
 pátria
+presidente
 

@@ -106,8 +106,8 @@ Lemmas in this profile that loaded on the factor:
 gabinete
 gado
 lista
-robô
 ódio
+robô
 
 ---------------
 # 000007
@@ -123,8 +123,8 @@ Lemmas in this profile that loaded on the factor:
 
 aborto
 gabinete
-robô
 ódio
+robô
 
 ---------------
 # 000008
@@ -192,9 +192,9 @@ Anti esquerda. Gabinete do Ódio- divisão gaúcha-centro do RS- Patriota. Tia d
 Lemmas in this profile that loaded on the factor:
 
 gabinete
+ódio
 tio
 zap
-ódio
 
 ---------------
 # 000012
@@ -210,8 +210,8 @@ Lemmas in this profile that loaded on the factor:
 
 aborto
 católico
-robot_e
 robô
+robot_e
 
 ---------------
 # 000013
@@ -277,8 +277,8 @@ Gabinete dos LEÕES, ROBÔS, TIAS do ZAP, BOLSOMINIONS e dos demais PATRIOTAS qu
 Lemmas in this profile that loaded on the factor:
 
 gabinete
-robot_e
 robô
+robot_e
 tio
 
 ---------------
@@ -328,8 +328,8 @@ P/ os bons: Patriota, conservadora e cristã.🇧🇷🇧🇷 P/ os maus: Gado, 
 Lemmas in this profile that loaded on the factor:
 
 gado
-robot_e
 robô
+robot_e
 tio
 
 ---------------
